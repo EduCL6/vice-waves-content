@@ -1,0 +1,6013 @@
+{
+ "version": 2,
+ "generated": "2026-11-24",
+ "source": "GTA Wiki (Fandom) — Radio Stations in GTA VI",
+ "stations": [
+  {
+   "id": "afrobank-fm",
+   "name": "AfroBank FM",
+   "frequency": "",
+   "genre": "Afrobeats · Amapiano",
+   "hosts": [
+    "Burna Boy",
+    "Palms Trax"
+   ],
+   "description": "Turn up the gbedu with Burna and Palmsy, AfroBank FM's dynamic duo curating the best in African music, from 20th-century classics and undiscovered gems to contemporary sounds like amapiano, 3-step, and more.",
+   "note": "",
+   "accent": "#FF6E7F",
+   "songs": [
+    {
+     "title": "Assanssan",
+     "artist": "Alafia",
+     "year": 1984,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/assanssan/1692614654?i=1692614777"
+    },
+    {
+     "title": "Accuse",
+     "artist": "Alaska",
+     "year": 1999,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/accuse/1694800664?i=1694801195"
+    },
+    {
+     "title": "Joha",
+     "artist": "Asake",
+     "year": 2022,
+     "spotify": "https://open.spotify.com/track/5UwxpuGHkwiojKDaPC5ZNu",
+     "apple": "https://music.apple.com/us/album/joha/1636748658?i=1636749025"
+    },
+    {
+     "title": "Sex Bills Bass Thrills",
+     "artist": "Ayra Starr",
+     "year": 2026,
+     "spotify": null
+    },
+    {
+     "title": "Government",
+     "artist": "Balcony Mix Africa, Lady Du, Focalistic, Major League DJz, LuuDadeejay, Aunty Gelato",
+     "year": 2021,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/government-feat-major-league-djz-luudadeejay-aunty/1610271095?i=1610272269"
+    },
+    {
+     "title": "Bigger",
+     "artist": "Burna Boy",
+     "year": 2026,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/bigger/6812476961?i=6812477301"
+    },
+    {
+     "title": "Giza",
+     "artist": "Burna Boy feat. Seyi Vibez",
+     "year": 2023,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/giza-feat-seyi-vibez/1704311790?i=1704312960"
+    },
+    {
+     "title": "Isaka (6am)",
+     "artist": "Ciza, Jazzwrld, Thukuthela",
+     "year": 2025,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/isaka-6am-feat-jazzwrld-thukuthela-untitled-audio-remix/1831706547?i=1831706548"
+    },
+    {
+     "title": "Oe Batla Kae",
+     "artist": "De Mogul Sa feat. Ms Mo & Makhensa",
+     "year": 2017,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/oe-batla-kae-feat-ms-mo-makhensa/1726895688?i=1726895705"
+    },
+    {
+     "title": "Shay'sana",
+     "artist": "DJ Lag & Robot Boii feat. Kamo Mphela",
+     "year": 2024,
+     "spotify": "https://open.spotify.com/track/5RowpzAMP5LGfXRQhBdMFv",
+     "apple": "https://music.apple.com/us/album/shaysana-feat-kamo-mphela/1744644722?i=1744644918"
+    },
+    {
+     "title": "Milandu Bhe (Dr Moruti Remix)",
+     "artist": "Penny Penny",
+     "year": 2014,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/milandu-bhe-dr-moruti-remix/903704476?i=903704482"
+    },
+    {
+     "title": "Kakalika",
+     "artist": "DopeNation",
+     "year": 2025,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/kakalika/1839067700?i=1839067702"
+    },
+    {
+     "title": "From London to Lagos (Bayaka Remix)",
+     "artist": "Eparapo, Dele Sosimi, Bayaka (IT)",
+     "year": 2023,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/from-london-to-lagos-feat-dele-sosimi-bayaka-remix/1715440620?i=1715440621"
+    },
+    {
+     "title": "YAWA",
+     "artist": "Fireboy DML",
+     "year": 2023,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/yawa/1691603355?i=1691603446"
+    },
+    {
+     "title": "Run No More (A Vuo Mo)",
+     "artist": "Hugh Masekela",
+     "year": 1985,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/run-no-more-a-vuo-mo/1552829965?i=1552829970"
+    },
+    {
+     "title": "Keep On Dancing",
+     "artist": "Kiki Gyan",
+     "year": 1979,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/keep-on-dancing/1612405498?i=1612405504"
+    },
+    {
+     "title": "Goro City",
+     "artist": "Manu Dibango",
+     "year": 1980,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/goro-city/1437030951?i=1437030959"
+    },
+    {
+     "title": "How Far",
+     "artist": "NO11 & Ayjay Bobo feat. Monochrome",
+     "year": 2026,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/how-far-feat-monochrome/1875671623?i=1875671624"
+    },
+    {
+     "title": "Tomorrow",
+     "artist": "Ntombi Ndaba",
+     "year": 1991,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/tomorrow/1426430792?i=1426431865"
+    },
+    {
+     "title": "Burning Jungle",
+     "artist": "Ofege",
+     "year": 1978,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/burning-jungle/1612411157?i=1612411167"
+    },
+    {
+     "title": "Holy Ghost",
+     "artist": "Omah Lay",
+     "year": 2026,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/holy-ghost/1714017002?i=1714017003"
+    },
+    {
+     "title": "Disco Hi-Life",
+     "artist": "Orlando Julius",
+     "year": 1979,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/disco-hi-life/811405340?i=811405694"
+    },
+    {
+     "title": "Sarama",
+     "artist": "Oumou Sangaré",
+     "year": 2022,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/sarama/1608016263?i=1608016479"
+    },
+    {
+     "title": "Gye Wani",
+     "artist": "Pat Thomas feat. Ebo Taylor",
+     "year": 2024,
+     "spotify": "https://open.spotify.com/track/3btvwWoGAdEJonpeIP64Vq",
+     "apple": "https://music.apple.com/us/album/gye-wani-feat-ebo-taylor/1720461164?i=1720461371"
+    },
+    {
+     "title": "Do I (Remix)",
+     "artist": "Phyno & Burna Boy",
+     "year": 2024,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/do-i-remix-mixed/1840952590?i=1840953534"
+    },
+    {
+     "title": "Bi Magni",
+     "artist": "Souley Kante",
+     "year": 2001,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/bi-magni/1850339100?i=1850339104"
+    },
+    {
+     "title": "No Discrimination",
+     "artist": "Tony Allen & The Afro Messengers",
+     "year": 1979,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/no-discrimination-2021-remastered-version/1697992472?i=1697992481"
+    },
+    {
+     "title": "Wadibusa",
+     "artist": "Uncle Waffles",
+     "year": 2024,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/wadibusa-feat-royal-musiq-ohp-sage-pcee/1802284512?i=1802284517"
+    },
+    {
+     "title": "Fantastic Man",
+     "artist": "William Onyeabor",
+     "year": 1979,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/fantastic-man/1178743373?i=1178743802"
+    },
+    {
+     "title": "Black Pepper",
+     "artist": "Yoruba Singers",
+     "year": 1984,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/black-pepper/1687852006?i=1687852276"
+    },
+    {
+     "title": "Guap Up",
+     "artist": "Zaylevelten",
+     "year": 2026,
+     "spotify": null
+    }
+   ]
+  },
+  {
+   "id": "back-country-radio",
+   "name": "Back Country Radio",
+   "frequency": "",
+   "genre": "Country",
+   "hosts": [
+    "Lana Del Rey",
+    "Morgan Wallen"
+   ],
+   "description": "MW and Delta Dawne blast renegade country music to the Grassrivers, Port Gellhorn, and beyond. Stay tuned for Back Country's roving reporter, swamp meteorologist, and Delta's not-so-secret lover Mud Dog Mike checking in from the driver's seat of his Grassrivers airboat.",
+   "note": "",
+   "accent": "#FFB35C",
+   "songs": [
+    {
+     "title": "Let Your Love Flow",
+     "artist": "The Bellamy Brothers",
+     "year": 1976,
+     "spotify": "https://open.spotify.com/track/064SVQsmWl5EF0zahmzkQk",
+     "apple": "https://music.apple.com/us/album/let-your-love-flow/551137386?i=551137487"
+    },
+    {
+     "title": "Need a Little Time Off for Bad Behavior",
+     "artist": "David Allan Coe",
+     "year": 1987,
+     "spotify": "https://open.spotify.com/track/2XuG6qXo9WZHn9O2QUxeTM",
+     "apple": "https://music.apple.com/us/album/need-a-little-time-off-for-bad-behavior/917384998?i=917385059"
+    },
+    {
+     "title": "You Can Have Her",
+     "artist": "George Jones & Johnny Paycheck",
+     "year": 1980,
+     "spotify": "https://open.spotify.com/track/7EOVhRHqIg2DlPwb1f1Pml",
+     "apple": "https://music.apple.com/us/album/you-can-have-her/281650302?i=281650320"
+    },
+    {
+     "title": "The Fireman",
+     "artist": "George Strait",
+     "year": 1985,
+     "spotify": "https://open.spotify.com/track/5CwZU4BVFX0dyqG1gKfHHr",
+     "apple": "https://music.apple.com/us/album/the-fireman/1445732611?i=1445733168"
+    },
+    {
+     "title": "Rhinestone Cowboy",
+     "artist": "Glen Campbell",
+     "year": 1975,
+     "spotify": "https://open.spotify.com/track/0VwTeYNjcl30DyQlt3GPe0",
+     "apple": "https://music.apple.com/us/album/rhinestone-cowboy/1442453148?i=1442453158"
+    },
+    {
+     "title": "I've Been Down",
+     "artist": "Hank Williams Jr.",
+     "year": 1982,
+     "spotify": "https://open.spotify.com/track/2Wgg8XEn4DBfbQy0tEIkPi",
+     "apple": "https://music.apple.com/us/album/ive-been-down/73995349?i=73995317"
+    },
+    {
+     "title": "A Country Boy Can Survive",
+     "artist": "Hank Williams Jr.",
+     "year": 1982,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/a-country-boy-can-survive/1163428144?i=1163428336"
+    },
+    {
+     "title": "The Conversation",
+     "artist": "Hank Williams Jr. feat. Waylon Jennings",
+     "year": 1983,
+     "spotify": "https://open.spotify.com/track/7GIBwtwVahJvvpot8g4Z4V",
+     "apple": "https://music.apple.com/us/album/the-conversation/531184243?i=531184327"
+    },
+    {
+     "title": "When You're Hot, You're Hot",
+     "artist": "Jerry Reed",
+     "year": 1971,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/when-youre-hot-youre-hot/268459977?i=268460014"
+    },
+    {
+     "title": "Is There Any Way (You'd Stay Forever)",
+     "artist": "Jessi Colter",
+     "year": 1975,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/is-there-any-way-youd-stay-forever/1497017959?i=1497017974"
+    },
+    {
+     "title": "Pickup Man",
+     "artist": "Joe Diffie",
+     "year": 1994,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/pickup-man/207315427?i=207316081"
+    },
+    {
+     "title": "Someone to Give My Love To",
+     "artist": "Johnny Paycheck",
+     "year": 1972,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/someone-to-give-my-love-to/20528123?i=20528110"
+    },
+    {
+     "title": "Walk Softly On This Heart Of Mine",
+     "artist": "The Kentucky Headhunters",
+     "year": 1989,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/walk-softly-on-this-heart-of-mine/1440921293?i=1440921424"
+    },
+    {
+     "title": "Don't Come Home A-Drinkin' (With Lovin' on Your Mind)",
+     "artist": "Loretta Lynn",
+     "year": 1966,
+     "spotify": "https://open.spotify.com/track/1Ch2cPleHoVVXLVRRrGF6o",
+     "apple": "https://music.apple.com/us/album/dont-come-home-a-drinkin-with-lovin-on-your-mind/1444207380?i=1444208079"
+    },
+    {
+     "title": "Louisiana Saturday Night",
+     "artist": "Mel McDaniel",
+     "year": 1980,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/louisiana-saturday-night/723502143?i=723502287"
+    },
+    {
+     "title": "Stop The World And Let Me Off",
+     "artist": "Merle Haggard",
+     "year": 1981,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/stop-the-world-and-let-me-off/1005186046?i=1005186054"
+    },
+    {
+     "title": "Tennessee Flat Top Box",
+     "artist": "Rosanne Cash",
+     "year": 1987,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/tennessee-flat-top-box/1727442788?i=1727444238"
+    },
+    {
+     "title": "Talkin To Myself Again",
+     "artist": "Tammy Wynette",
+     "year": 1987,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/talkin-to-myself-again/200299047?i=200310872"
+    },
+    {
+     "title": "Polk Salad Annie",
+     "artist": "Tony Joe White",
+     "year": 1968,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/polk-salad-annie-remastered-version/650673447?i=650673603"
+    },
+    {
+     "title": "Waymore's Blues",
+     "artist": "Waylon Jennings",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/waymores-blues/385558807?i=385558978"
+    },
+    {
+     "title": "Gold Dust Woman",
+     "artist": "Waylon Jennings",
+     "year": 1978,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/gold-dust-woman-remastered/881234060?i=881236891"
+    },
+    {
+     "title": "Just to Satisfy You",
+     "artist": "Waylon Jennings, Willie Nelson",
+     "year": 1982,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/just-to-satisfy-you/284985709?i=284985871"
+    },
+    {
+     "title": "Thanks To The Cathouse (I'm In The Doghouse With You)",
+     "artist": "Waylon Jennings",
+     "year": 1978,
+     "spotify": null
+    },
+    {
+     "title": "Love Is Alive",
+     "artist": "The Judds",
+     "year": 1985,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/love-is-alive/68889539?i=68889313"
+    }
+   ]
+  },
+  {
+   "id": "circoloco-records-radio",
+   "name": "CircoLoco Records Radio",
+   "frequency": "",
+   "genre": "Electrónica",
+   "hosts": [],
+   "description": "A dance music station associated with CircoLoco Records, the record label co-founded by Rockstar Games and the CircoLoco event brand in 2021.",
+   "note": "",
+   "accent": "#5FD3F3",
+   "songs": [
+    {
+     "title": "Home Now",
+     "artist": "Aline Umber & Krol feat. Tillmann Ostendarp",
+     "year": 2026,
+     "spotify": null
+    },
+    {
+     "title": "Coming Back to Life",
+     "artist": "Aline Umber, Maxime dB feat. Andre Baum",
+     "year": 2026,
+     "spotify": null
+    },
+    {
+     "title": "Silver Lines",
+     "artist": "ANOTR feat. Emily Warren",
+     "year": 2026,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/silver-lines-feat-emily-warren/6785556332?i=6785556337"
+    },
+    {
+     "title": "Bickering (Max Dean Remix)",
+     "artist": "Black Lounge",
+     "year": 2026,
+     "spotify": null
+    },
+    {
+     "title": "Last Night",
+     "artist": "Carlita & Bakar",
+     "year": 2026,
+     "spotify": null
+    },
+    {
+     "title": "I FEEL LOVE",
+     "artist": "Chloé Caillet & Myd",
+     "year": 2026,
+     "spotify": null
+    },
+    {
+     "title": "We On This Ride",
+     "artist": "Chris Stussy",
+     "year": 2026,
+     "spotify": null
+    },
+    {
+     "title": "Never Look Back",
+     "artist": "DJ Tennis feat. Tomike",
+     "year": 2026,
+     "spotify": null
+    },
+    {
+     "title": "CLOWN",
+     "artist": "The Ghostbusters",
+     "year": 2023,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/clown/1685955641?i=1685955862"
+    },
+    {
+     "title": "Positive",
+     "artist": "Jamback",
+     "year": 2025,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/positive-extended-mix/1846394611?i=1846394613"
+    },
+    {
+     "title": "Don't Break My Heart",
+     "artist": "Jimi Jules",
+     "year": 2025,
+     "spotify": null
+    },
+    {
+     "title": "Turbo Rosso",
+     "artist": "Jimi Jules",
+     "year": 2026,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/turbo-rosso/1857659237?i=1857659909"
+    },
+    {
+     "title": "Addicted",
+     "artist": "Larry Latenight",
+     "year": 2026,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/addicted/1519044135?i=1519044138"
+    },
+    {
+     "title": "ROCKMI",
+     "artist": "Map.ache",
+     "year": 2026,
+     "spotify": null
+    },
+    {
+     "title": "MYSTERY OF RAW",
+     "artist": "Michael Bibi & KETTAMA",
+     "year": 2026,
+     "spotify": null
+    },
+    {
+     "title": "Rhythm of the Night",
+     "artist": "Michael Bibi",
+     "year": 2026,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/rhythm-of-the-night/1553609972?i=1553609975"
+    },
+    {
+     "title": "Let It Go",
+     "artist": "Mind Against",
+     "year": 2026,
+     "spotify": null
+    },
+    {
+     "title": "Collect the Commas",
+     "artist": "PAWSA",
+     "year": 2024,
+     "spotify": null
+    },
+    {
+     "title": "Body Rock FM",
+     "artist": "PAWSA & Fast Eddie",
+     "year": 2026,
+     "spotify": null
+    },
+    {
+     "title": "CeeSeeMee",
+     "artist": "Pional",
+     "year": 2026,
+     "spotify": null
+    },
+    {
+     "title": "This Rhythm",
+     "artist": "Prospa feat. RAHH",
+     "year": 2024,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/this-rhythm-feat-rahh/1796448779?i=1796448782"
+    },
+    {
+     "title": "Baby",
+     "artist": "Prospa & Murda Beatz",
+     "year": 2026,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/baby/1884730177?i=1884731025"
+    },
+    {
+     "title": "The Church (DJ Lag & Palms Trax Remix)",
+     "artist": "Rampa",
+     "year": 2026,
+     "spotify": null
+    },
+    {
+     "title": "Deep n Sexy",
+     "artist": "Rossi. & Demi",
+     "year": 2026,
+     "spotify": null
+    },
+    {
+     "title": "Bootlicker",
+     "artist": "Seth Troxler",
+     "year": 2026,
+     "spotify": null
+    },
+    {
+     "title": "The Attention Deficit Track",
+     "artist": "Skream & Jackmaster",
+     "year": 2023,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/the-attention-deficit-track-edit/1677702696?i=1677702701"
+    },
+    {
+     "title": "Floral",
+     "artist": "Skream",
+     "year": 2022,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/floral/1677710638?i=1677710648"
+    }
+   ]
+  },
+  {
+   "id": "cocoteo-fm",
+   "name": "Cocoteo FM",
+   "frequency": "",
+   "genre": "Latino · Reggaetón",
+   "hosts": [
+    "Bad Bunny",
+    "RaiNao"
+   ],
+   "description": "Cocoteo FM is Leonida's home for modern Latin music, hosted by El Martillo and La Gata and featuring everything from bachata and merengue to dembow and reggaeton. Cocoteo FM is el party que nunca se apaga.",
+   "note": "",
+   "accent": "#9D8CFF",
+   "songs": [
+    {
+     "title": "Amanece",
+     "artist": "Anuel AA feat. Haze",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "Sandunguea",
+     "artist": "Arca",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "Si Es Trucho Es Trucho (Remix)",
+     "artist": "Axel Rulay feat. Farruko and El Alfa",
+     "year": 2021,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/si-es-trucho-es-trucho-feat-el-alfa-farruko-ti%C3%ABsto-remix/1637463119?i=1637463124"
+    },
+    {
+     "title": "Otra Noche en Miami",
+     "artist": "Bad Bunny",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "EoO",
+     "artist": "Bad Bunny",
+     "year": 2025,
+     "spotify": "https://open.spotify.com/track/6J5kc12BW5HuP3d7C3vvx8"
+    },
+    {
+     "title": "Malvada",
+     "artist": "Bb Trickz",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/malvada/1804394843?i=1804394867"
+    },
+    {
+     "title": "Dumbai",
+     "artist": "CA7RIEL & Paco Amoroso",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/dumbai-en-vivo-buenos-aires/1783038655?i=1783038660"
+    },
+    {
+     "title": "Suave Mix (Blass Remix)",
+     "artist": "Calle 13",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/suave-mix-blass-remix/159545628?i=159545896"
+    },
+    {
+     "title": "Se Me Nota (Agárrame)",
+     "artist": "Chimbala & Omega",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/se-me-nota-ag%C3%A1rrame-prod-by-b-one/1564402492?i=1564402493"
+    },
+    {
+     "title": "Intocable",
+     "artist": "Don Omar",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/intocable/1467968644?i=1467968651"
+    },
+    {
+     "title": "La Mama de la Mama",
+     "artist": "El Alfa, CJ, Chael Produciendo, El Cherry Scom",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "Nuestra Cancion",
+     "artist": "Elvis Crespo",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "Pepas",
+     "artist": "Farruko",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "Chorrito Pa Las Animas",
+     "artist": "FEID",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "Suzuki",
+     "artist": "Fuerza Regida",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "X",
+     "artist": "Jhayco",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/x/6812476961?i=6812477297"
+    },
+    {
+     "title": "Besito",
+     "artist": "Judeline",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/besito/6783499285?i=6783499291"
+    },
+    {
+     "title": "Largate",
+     "artist": "Kali Uchis & Helado Negro",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/largate/6812476961?i=6812477320"
+    },
+    {
+     "title": "El Makinon",
+     "artist": "Karol G, Mariah Angeliq",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "Hecho para ti",
+     "artist": "Latin Mafia & Omar Apollo",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/hecho-para-ti/1826189410?i=1826189414"
+    },
+    {
+     "title": "La Pari",
+     "artist": "MJ Nebrada",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "Girl",
+     "artist": "Myke Towers",
+     "year": null,
+     "spotify": "https://open.spotify.com/track/43NqTeL8pgBxKHPMiJKUP5"
+    },
+    {
+     "title": "Mariposas en el estomago",
+     "artist": "RaiNao & El Laberinto del Coco",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "Macacoa 2000",
+     "artist": "Rauw Alejandro",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "Canalla",
+     "artist": "Romeo Santos feat. El Chaval de la Bachata",
+     "year": 2019,
+     "spotify": "https://open.spotify.com/track/4XEXrp37kZXpQTB2r5vWbS",
+     "apple": "https://music.apple.com/us/album/canalla/1458398617?i=1458398730"
+    },
+    {
+     "title": "Candy",
+     "artist": "Rosalía",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/candy/1607918350?i=1607918366"
+    },
+    {
+     "title": "Sin Dormir",
+     "artist": "Slow Jamz",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "Mojabi Ghost",
+     "artist": "Tainy & Bad Bunny",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/mojabi-ghost-instrumental/1720558218?i=1720558230"
+    },
+    {
+     "title": "CELOS",
+     "artist": "Tokischa, Bulin 47",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "Ni le cabe",
+     "artist": "Young Miko",
+     "year": null,
+     "spotify": null
+    }
+   ]
+  },
+  {
+   "id": "dirty-south-classics",
+   "name": "Dirty South Classics",
+   "frequency": "",
+   "genre": "Hip hop · South",
+   "hosts": [
+    "Trina",
+    "Trick Daddy"
+   ],
+   "description": "A little southern hospitality from Trick and Trina, blasting regional rap and hip-hop classics with Dirty South Classics. From the beach to the block, nobody represents Leonida and the South quite like they do.",
+   "note": "",
+   "accent": "#63E6A6",
+   "songs": [
+    {
+     "title": "No Lie",
+     "artist": "2 Chainz, Drake",
+     "year": 2012,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/no-lie-feat-drake/1443737114?i=1443737140"
+    },
+    {
+     "title": "Still Ballin' (Nitty Remix)",
+     "artist": "2Pac feat. Trick Daddy",
+     "year": 2002,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/still-ballin-feat-trick-daddy-nitty-remix/1443716647?i=1443716803"
+    },
+    {
+     "title": "Bling Bling",
+     "artist": "B.G. feat. Hot Boys & Big Tymers",
+     "year": 1999,
+     "spotify": null
+    },
+    {
+     "title": "#1 Stunna",
+     "artist": "Big Tymers, Juvenile, Lil Wayne",
+     "year": 2000,
+     "spotify": null
+    },
+    {
+     "title": "Pop Bottles",
+     "artist": "Birdman feat. Lil Wayne",
+     "year": 2007,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/pop-bottles-feat-lil-wayne-clean/1444000218?i=1444000431"
+    },
+    {
+     "title": "Bitch I'm Me",
+     "artist": "Brisco",
+     "year": 2009,
+     "spotify": null
+    },
+    {
+     "title": "Holidae Inn",
+     "artist": "Chingy feat. Ludacris & Snoop Dogg",
+     "year": 2003,
+     "spotify": null
+    },
+    {
+     "title": "Choppa Style",
+     "artist": "Choppa Style feat. Master P",
+     "year": 2003,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/choppa-style/1447411485?i=1447411486"
+    },
+    {
+     "title": "Knuck If You Buck",
+     "artist": "Crime Mob feat. Lil Scrappy",
+     "year": 2004,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/knuck-if-you-buck/19440684?i=19440692"
+    },
+    {
+     "title": "Like a Pimp",
+     "artist": "David Banner feat. Lil' Flip",
+     "year": 2003,
+     "spotify": "https://open.spotify.com/track/0DW5anNzTO7h0OlKqFsVQ6",
+     "apple": "https://music.apple.com/us/album/like-a-pimp-feat-lil-flip/1449301940?i=1449302092"
+    },
+    {
+     "title": "White Tee",
+     "artist": "Dem Franchize Boyz",
+     "year": 2004,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/white-tee/1098055811?i=1098056457"
+    },
+    {
+     "title": "Born-N-Raised",
+     "artist": "DJ Khaled feat. Trick Daddy, Rick Ross, and Pitbull",
+     "year": 2006,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/born-n-raised-dj-khaled-featuring-pitbull-trick-daddy/200523381?i=200543085"
+    },
+    {
+     "title": "Step In The Arena",
+     "artist": "Gang Starr",
+     "year": 1991,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/step-in-the-arena/723665537?i=723665759"
+    },
+    {
+     "title": "Where Dem Dollas At?",
+     "artist": "Gangsta Boo feat. DJ Paul & Juicy J",
+     "year": 1998,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/where-dem-dollas-at-feat-dj-paul-juicy-j-instrumental/1559599488?i=1559599491"
+    },
+    {
+     "title": "Damn It Feels Good To Be A Gangsta",
+     "artist": "Geto Boys",
+     "year": 1992,
+     "spotify": null
+    },
+    {
+     "title": "HelluvaLife",
+     "artist": "Gorilla Zoe, Gucci Mane & OJ da Juiceman",
+     "year": 2009,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/helluvalife-feat-oj-da-juiceman-gucci-mane/307965786?i=307965797"
+    },
+    {
+     "title": "Lemonade",
+     "artist": "Gucci Mane",
+     "year": 2009,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/lemonade/342392469?i=342392487"
+    },
+    {
+     "title": "Freaky Gurl",
+     "artist": "Gucci Mane",
+     "year": 2006,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/freaky-gurl-remix-feat-ludacris-lil-kim/268002995?i=268003032"
+    },
+    {
+     "title": "Big Pimpin'",
+     "artist": "JAY-Z, UGK",
+     "year": 1999,
+     "spotify": null
+    },
+    {
+     "title": "Seen it All",
+     "artist": "Jeezy, JAY-Z",
+     "year": 2014,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/seen-it-all-feat-ja%C3%BF-z/1442973820?i=1442974208"
+    },
+    {
+     "title": "Who Dat",
+     "artist": "JT Money ft Solé",
+     "year": 1999,
+     "spotify": "https://open.spotify.com/track/2rbb3lOMI71NIMbJCS1wQQ",
+     "apple": "https://music.apple.com/us/album/who-dat/713514373?i=713514399"
+    },
+    {
+     "title": "Slow Motion",
+     "artist": "Juvenile feat. Soulja Slim",
+     "year": 2004,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/slow-motion-feat-soulja-slim/1444083055?i=1444083374"
+    },
+    {
+     "title": "Skrilla",
+     "artist": "Kodak Black",
+     "year": 2014,
+     "spotify": null
+    },
+    {
+     "title": "What U Gon' Do",
+     "artist": "Lil Jon feat. Lil Scrappy",
+     "year": 2004,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/what-u-gon-do-feat-lil-scrappy/425296950?i=425296985"
+    },
+    {
+     "title": "A Milli",
+     "artist": "Lil Wayne",
+     "year": 2008,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/a-milli/1440738372?i=1440738491"
+    },
+    {
+     "title": "Back Then",
+     "artist": "Mike Jones",
+     "year": 2005,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/back-then/59423155?i=59423117"
+    },
+    {
+     "title": "Player's Ball",
+     "artist": "Outkast",
+     "year": 1994,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/players-ball-radio-remix/1540847359?i=1540847366"
+    },
+    {
+     "title": "Freek-a-Leek",
+     "artist": "Petey Pablo",
+     "year": 2003,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/freek-a-leek-remix/271367812?i=271367824"
+    },
+    {
+     "title": "Hustlin'",
+     "artist": "Rick Ross",
+     "year": 2006,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/hustlin-remix-featuring-ja%C3%BF-z-young-jeezy/1440778709?i=1440778972"
+    },
+    {
+     "title": "Push It",
+     "artist": "Rick Ross",
+     "year": 2006,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/push-it/1440778709?i=1440778711"
+    },
+    {
+     "title": "Dey Know",
+     "artist": "Shawty Lo",
+     "year": 2007,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/dey-know/268976050?i=268976051"
+    },
+    {
+     "title": "Hard Out Here for a Pimp",
+     "artist": "Three 6 Mafia",
+     "year": 2006,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/hard-out-here-for-a-pimp-feat-paula-campbell/160305780?i=160306337"
+    },
+    {
+     "title": "Side 2 Side",
+     "artist": "Three 6 Mafia",
+     "year": 2005,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/side-2-side-feat-kayne-west-project-pat/160305780?i=160306057"
+    },
+    {
+     "title": "Rubber Band Man",
+     "artist": "T.I.",
+     "year": 2003,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/rubber-band-man/1260772249?i=1260772257"
+    },
+    {
+     "title": "I'm a Thug",
+     "artist": "Trick Daddy",
+     "year": 2001,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/im-a-thug/406935005?i=406935006"
+    },
+    {
+     "title": "Da Baddest Bitch",
+     "artist": "Trina",
+     "year": 2000,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/da-baddest-bitch/1253430263?i=1253430767"
+    },
+    {
+     "title": "What's Happenin!",
+     "artist": "Ying Yang Twins, Trick Daddy",
+     "year": 2003,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/whats-happenin/311383243?i=311383257"
+    },
+    {
+     "title": "Shorty Wanna Ride",
+     "artist": "Young Buck",
+     "year": 2004,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/shorty-wanna-ride/1440719631?i=1440720114"
+    },
+    {
+     "title": "It's Goin' Down",
+     "artist": "Yung Joc",
+     "year": 2006,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/its-goin-down-featuring-nitti/159078938?i=159079071"
+    }
+   ]
+  },
+  {
+   "id": "emotion-98-3",
+   "name": "Emotion 98.3",
+   "frequency": "98.3",
+   "genre": "Baladas",
+   "hosts": [],
+   "description": "",
+   "note": "",
+   "accent": "#FF8A5C",
+   "songs": [
+    {
+     "title": "How Long",
+     "artist": "Ace",
+     "year": 1974,
+     "spotify": "https://open.spotify.com/track/6Wgst4P9SOnc6WGLtfTb1z",
+     "apple": "https://music.apple.com/us/album/how-long/1446617007?i=1446617014"
+    },
+    {
+     "title": "All Out Of Love",
+     "artist": "Air Supply",
+     "year": 1980,
+     "spotify": "https://open.spotify.com/track/7dQC53NiYOY9gKg3Qsu2Bs",
+     "apple": "https://music.apple.com/us/album/all-out-of-love/913765043?i=913765102"
+    },
+    {
+     "title": "The Way It Is",
+     "artist": "Bruce Hornsby & The Range",
+     "year": 1986,
+     "spotify": "https://open.spotify.com/track/6V50MyHPGhEmwYu0Wdyf0t",
+     "apple": "https://music.apple.com/us/album/the-way-it-is/258517180?i=258517392"
+    },
+    {
+     "title": "Coming Around Again",
+     "artist": "Carly Simon",
+     "year": 1986,
+     "spotify": "https://open.spotify.com/track/4YVjOnSTkv0ZVdgI6sS7Wb",
+     "apple": "https://music.apple.com/us/album/coming-around-again/299602957?i=299602964"
+    },
+    {
+     "title": "Drive",
+     "artist": "The Cars",
+     "year": 1984,
+     "spotify": "https://open.spotify.com/track/3wfujdbamR3Z46F4xav7LM",
+     "apple": "https://music.apple.com/us/album/drive/1088530786?i=1088531479"
+    },
+    {
+     "title": "But I Think It's a Dream",
+     "artist": "Captain & Tennille",
+     "year": 1980,
+     "spotify": "https://open.spotify.com/track/6mM4FYEtBWaosh60vaJTgh",
+     "apple": "https://music.apple.com/us/album/but-i-think-its-a-dream/1443428027?i=1443428041"
+    },
+    {
+     "title": "Hard to Say I'm Sorry / Get Away",
+     "artist": "Chicago",
+     "year": 1982,
+     "spotify": "https://open.spotify.com/track/5dVKhxdQopMxc7sFNP7agq",
+     "apple": "https://music.apple.com/us/album/hard-to-say-im-sorry-get-away/28457957?i=28458031"
+    },
+    {
+     "title": "The Flame",
+     "artist": "Cheap Trick",
+     "year": 1988,
+     "spotify": "https://open.spotify.com/track/528CAH5pTLq86oZ52fHifA",
+     "apple": "https://music.apple.com/us/album/the-flame/198011323?i=198018847"
+    },
+    {
+     "title": "Lie to Me",
+     "artist": "Chris Isaak",
+     "year": 1987,
+     "spotify": "https://open.spotify.com/track/2o3eZ4Y0PbtaYgpzIDQWL2",
+     "apple": "https://music.apple.com/us/album/lie-to-me/6785935587?i=6785935722"
+    },
+    {
+     "title": "Fool (If You Think It's Over)",
+     "artist": "Chris Rea",
+     "year": 1978,
+     "spotify": "https://open.spotify.com/track/0UHiH4dy1hXULYl8CgNxRV",
+     "apple": "https://music.apple.com/us/album/fool-if-you-think-its-over/1308343943?i=1308344326"
+    },
+    {
+     "title": "Devil Woman",
+     "artist": "Cliff Richard",
+     "year": 1976,
+     "spotify": "https://open.spotify.com/track/2oRn0QuaWQ1hragGQ7XZ9s",
+     "apple": "https://music.apple.com/us/album/devil-woman/697669239?i=697669247"
+    },
+    {
+     "title": "Love Bites",
+     "artist": "Def Leppard",
+     "year": 1987,
+     "spotify": "https://open.spotify.com/track/4qWizh4UB8BuSypZ3T1zAz",
+     "apple": "https://music.apple.com/us/album/love-bites/1440903625?i=1440904256"
+    },
+    {
+     "title": "It Keeps You Runnin'",
+     "artist": "The Doobie Brothers",
+     "year": 1976,
+     "spotify": "https://open.spotify.com/track/5wFdcY9O6cEn1PL6V3AEmu",
+     "apple": "https://music.apple.com/us/album/it-keeps-you-runnin-2016-remastered/1111372373?i=1111372791"
+    },
+    {
+     "title": "The Captain of Her Heart",
+     "artist": "Double",
+     "year": 1985,
+     "spotify": "https://open.spotify.com/track/5EwltLwI9hRLyiTUAjMsQ6"
+    },
+    {
+     "title": "When You're In Love With A Beautiful Woman",
+     "artist": "Dr. Hook",
+     "year": 1978,
+     "spotify": "https://open.spotify.com/track/1UiKUFbCfgbVjwY8W657Pv",
+     "apple": "https://music.apple.com/us/album/when-youre-in-love-with-a-beautiful-woman/723503197?i=723503624"
+    },
+    {
+     "title": "I Guess That's Why They Call It the Blues",
+     "artist": "Elton John",
+     "year": 1983,
+     "spotify": "https://open.spotify.com/track/23l1kVpqMVREiwU1YAlcr4",
+     "apple": "https://music.apple.com/us/album/i-guess-thats-why-they-call-it-the-blues-apple-music-live/6828442730?i=6828442737"
+    },
+    {
+     "title": "All By Myself",
+     "artist": "Eric Carmen",
+     "year": 1975,
+     "spotify": "https://open.spotify.com/track/0AQqrtK1pULuwZUXhwaaDz",
+     "apple": "https://music.apple.com/us/album/all-by-myself/1268085628?i=1268087248"
+    },
+    {
+     "title": "Kiss You All Over",
+     "artist": "Exile",
+     "year": 1978,
+     "spotify": "https://open.spotify.com/track/3FGcQkWQlkeB82RdZwlw8V",
+     "apple": "https://music.apple.com/us/album/kiss-you-all-over/208035227?i=208035543"
+    },
+    {
+     "title": "Dream Weaver",
+     "artist": "Gary Wright",
+     "year": 1975,
+     "spotify": "https://open.spotify.com/track/74DrA5fFoGSy4xgkZarZtP",
+     "apple": "https://music.apple.com/us/album/dream-weaver/321974937?i=321974997"
+    },
+    {
+     "title": "Father Figure",
+     "artist": "George Michael",
+     "year": 1987,
+     "spotify": "https://open.spotify.com/track/0L0T4tMAaGqLgIVj1MOj9t",
+     "apple": "https://music.apple.com/us/album/father-figure/282658449?i=282658484"
+    },
+    {
+     "title": "Tonight, Tonight, Tonight",
+     "artist": "Genesis",
+     "year": 1986,
+     "spotify": "https://open.spotify.com/track/3qmYlsTbC9CD9SGoVmaEDa",
+     "apple": "https://music.apple.com/us/album/tonight-tonight-tonight-2007-remaster/396483774?i=396483790"
+    },
+    {
+     "title": "Alone",
+     "artist": "Heart",
+     "year": 1987,
+     "spotify": "https://open.spotify.com/track/54b8qPFqYqIndfdxiLApea",
+     "apple": "https://music.apple.com/us/album/alone/725786124?i=725786574"
+    },
+    {
+     "title": "Angel of the Morning",
+     "artist": "Juice Newton",
+     "year": 1981,
+     "spotify": "https://open.spotify.com/track/11y8GSP2ASv8S9n0FiiDva",
+     "apple": "https://music.apple.com/us/album/angel-of-the-morning/1442266880?i=1442266978"
+    },
+    {
+     "title": "Trouble",
+     "artist": "Lindsey Buckingham",
+     "year": 1981,
+     "spotify": "https://open.spotify.com/track/04ijIUVdT4Qy1SBWFUPROY",
+     "apple": "https://music.apple.com/us/album/trouble/357960297?i=357960438"
+    },
+    {
+     "title": "On My Own",
+     "artist": "Patti LaBelle, Michael McDonald",
+     "year": 1986,
+     "spotify": "https://open.spotify.com/track/1ip8Zy9RnP93KuGuHOz7WI",
+     "apple": "https://music.apple.com/us/album/on-my-own/1467952230?i=1467952238"
+    },
+    {
+     "title": "Against All Odds (Take a Look at Me Now)",
+     "artist": "Phil Collins",
+     "year": 1984,
+     "spotify": "https://open.spotify.com/track/63CHa6rmamv9OsehkRD8oz",
+     "apple": "https://music.apple.com/us/album/against-all-odds-take-a-look-at-me-now/320264133?i=320264177"
+    },
+    {
+     "title": "In the Air Tonight",
+     "artist": "Phil Collins",
+     "year": 1981,
+     "spotify": "https://open.spotify.com/track/18AXbzPzBS8Y3AkgSxzJPb",
+     "apple": "https://music.apple.com/us/album/in-the-air-tonight/1076779219?i=1076779225"
+    },
+    {
+     "title": "In The Mood",
+     "artist": "Robert Plant",
+     "year": 1983,
+     "spotify": "https://open.spotify.com/track/1fOrdq5lDitklPno27DeHV",
+     "apple": "https://music.apple.com/us/album/in-the-mood/254162739?i=254162768"
+    },
+    {
+     "title": "Stranger In My House",
+     "artist": "Ronnie Milsap",
+     "year": 1983,
+     "spotify": "https://open.spotify.com/track/1nB1e9M5IQ51aITRslHa3P",
+     "apple": "https://music.apple.com/us/album/stranger-in-my-house/1450324023?i=1450324029"
+    },
+    {
+     "title": "Listen to Your Heart",
+     "artist": "Roxette",
+     "year": 1988,
+     "spotify": "https://open.spotify.com/track/1WrwmNLeltkG6BuXv2DEWS",
+     "apple": "https://music.apple.com/us/album/listen-to-your-heart/1611167616?i=1611169005"
+    },
+    {
+     "title": "Voices",
+     "artist": "Russ Ballard",
+     "year": 1984,
+     "spotify": "https://open.spotify.com/track/1E6caAhjKnBEGcO4tgoVJ0",
+     "apple": "https://music.apple.com/us/album/voices/1794861255?i=1794861686"
+    },
+    {
+     "title": "Overnite",
+     "artist": "Scritti Politti",
+     "year": 1988,
+     "spotify": "https://open.spotify.com/track/5G9Vy0SF7a0sBYMRFM6lWN",
+     "apple": "https://music.apple.com/us/album/overnite/1139088821?i=1139088830"
+    },
+    {
+     "title": "Stop Draggin' My Heart Around",
+     "artist": "Stevie Nicks feat. Tom Petty",
+     "year": 1981,
+     "spotify": "https://open.spotify.com/track/66LhCsc06aTa2Ig7iYPDSP",
+     "apple": "https://music.apple.com/us/album/stop-draggin-my-heart-around-with-tom-petty/1163931618?i=1163931699"
+    },
+    {
+     "title": "No Regrets",
+     "artist": "The Walker Brothers",
+     "year": 1975,
+     "spotify": "https://open.spotify.com/track/6hzqAmGSQv3Sb5tY0WB8RA",
+     "apple": "https://music.apple.com/us/album/no-regrets/268499242?i=268499252"
+    },
+    {
+     "title": "Baby I Love Your Way / Freebird",
+     "artist": "Will to Power",
+     "year": 1988,
+     "spotify": "https://open.spotify.com/track/0kzSooCGpuphLwn8iTuO9h",
+     "apple": "https://music.apple.com/us/album/baby-i-love-your-way-freebird/304207933?i=304208102"
+    }
+   ]
+  },
+  {
+   "id": "flash-fm",
+   "name": "Flash FM",
+   "frequency": "",
+   "genre": "Pop",
+   "hosts": [
+    "Robyn",
+    "Alex Consani"
+   ],
+   "description": "The Vice City institution that delivers the best in pop music with Robyn and Alex Consani from Flash FM — guaranteed to make you dance no matter where you find yourself in the Goodtime State.",
+   "note": "",
+   "accent": "#F3D45F",
+   "songs": [
+    {
+     "title": "Fame Is a Gun",
+     "artist": "Addison Rae",
+     "year": 2025,
+     "spotify": "https://open.spotify.com/track/7B3BwNecBhKvNwSMOOl7Gk",
+     "apple": "https://music.apple.com/us/album/fame-is-a-gun/1809015416?i=1809015879"
+    },
+    {
+     "title": "Mine O' Mine",
+     "artist": "Aluna, Jayda G",
+     "year": null,
+     "spotify": "https://open.spotify.com/track/5ZPqHW450bjKLNqSBT9YlA",
+     "apple": "https://music.apple.com/us/album/mine-o-mine/1617366972?i=1617366981"
+    },
+    {
+     "title": "Break Free",
+     "artist": "Ariana Grande & Zedd",
+     "year": 2014,
+     "spotify": "https://open.spotify.com/track/4E8KoNTXZnWDE3cCjjw8FU",
+     "apple": "https://music.apple.com/us/album/break-free-feat-zedd/1762836487?i=1762836831"
+    },
+    {
+     "title": "LUNCH",
+     "artist": "Billie Eilish",
+     "year": 2024,
+     "spotify": "https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE",
+     "apple": "https://music.apple.com/us/album/lunch/1739659134?i=1739659140"
+    },
+    {
+     "title": "Shine",
+     "artist": "Booty Luv",
+     "year": null,
+     "spotify": "https://open.spotify.com/track/30OWXDnm9WBsvmJdsGpw9O",
+     "apple": "https://music.apple.com/us/album/shine/1216919301?i=1216919304"
+    },
+    {
+     "title": "Prove It To You",
+     "artist": "Brittany Howard",
+     "year": null,
+     "spotify": "https://open.spotify.com/track/0w9eE1YhhHG4pTGK2eaWhs",
+     "apple": "https://music.apple.com/us/album/prove-it-to-you/1728749739?i=1728749900"
+    },
+    {
+     "title": "No Rain, No Flowers",
+     "artist": "The Black Keys",
+     "year": null,
+     "spotify": "https://open.spotify.com/track/2aCRmuNL8RaBi8h7BbmTsT",
+     "apple": "https://music.apple.com/us/album/no-rain-no-flowers/1811897147?i=1811897148"
+    },
+    {
+     "title": "Sexy Magic",
+     "artist": "CA7RIEL & Paco Amoroso, PinkPantheress, Fred again.. & Etienne de Crécy",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/sexy-magic/6812476961?i=6812477269"
+    },
+    {
+     "title": "Feels",
+     "artist": "Calvin Harris feat. Pharrell, Katy Perry & Big Sean",
+     "year": 2017,
+     "spotify": null
+    },
+    {
+     "title": "Cola",
+     "artist": "CamelPhat & Elderbrook",
+     "year": null,
+     "spotify": "https://open.spotify.com/track/0aL5jEWqfIwNDB3tdzyzH4",
+     "apple": "https://music.apple.com/us/album/cola-club-mix/1783998382?i=1783998384"
+    },
+    {
+     "title": "Sweet Like Candy",
+     "artist": "Camila Cabello",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/sweet-like-candy/6812476961?i=6812477314"
+    },
+    {
+     "title": "Run Away With Me",
+     "artist": "Carly Rae Jepsen",
+     "year": null,
+     "spotify": "https://open.spotify.com/track/0Jirkb7LGNWyVhKOsKFdZ2",
+     "apple": "https://music.apple.com/us/album/run-away-with-me/1442810070?i=1442810074"
+    },
+    {
+     "title": "HOT TO GO!",
+     "artist": "Chappell Roan",
+     "year": 2023,
+     "spotify": "https://open.spotify.com/track/7MX0wxRiKE9c7dmiLV3NrX",
+     "apple": "https://music.apple.com/us/album/hot-to-go/1707412988?i=1707413105"
+    },
+    {
+     "title": "Good Ones",
+     "artist": "Charli XCX",
+     "year": 2021,
+     "spotify": "https://open.spotify.com/track/2grSOc6HNTXQQXNoRKt9UM",
+     "apple": "https://music.apple.com/us/album/good-ones/1615112991?i=1615112997"
+    },
+    {
+     "title": "Oyster",
+     "artist": "Chloe Moriondo",
+     "year": null,
+     "spotify": "https://open.spotify.com/track/1oK8MgS9QKWFLC8VpZ15UB",
+     "apple": "https://music.apple.com/us/album/oyster/1791818367?i=1791818760"
+    },
+    {
+     "title": "Love Sex Magic",
+     "artist": "Ciara and Justin Timberlake",
+     "year": 2009,
+     "spotify": "https://open.spotify.com/track/7xdmTEHRbgQuLR8KpRLLnn",
+     "apple": "https://music.apple.com/us/album/love-sex-magic-feat-justin-timberlake/307564775?i=307564849"
+    },
+    {
+     "title": "Adventure of a Lifetime",
+     "artist": "Coldplay",
+     "year": 2015,
+     "spotify": "https://open.spotify.com/track/69uxyAqqPIsUyTO8txoP2M",
+     "apple": "https://music.apple.com/us/album/adventure-of-a-lifetime/1053933969?i=1053934846"
+    },
+    {
+     "title": "Around the World",
+     "artist": "Daft Punk",
+     "year": null,
+     "spotify": "https://open.spotify.com/track/4NTnsmgHxlu92IlJqFwvoz",
+     "apple": "https://music.apple.com/us/album/around-the-world/696884422?i=696886431"
+    },
+    {
+     "title": "Jaded",
+     "artist": "Disclosure",
+     "year": null,
+     "spotify": "https://open.spotify.com/track/6c4T1Dz9hwK5xat7eh3g8o",
+     "apple": "https://music.apple.com/us/album/jaded/1440828453?i=1440829160"
+    },
+    {
+     "title": "Persuasive",
+     "artist": "Doechii & SZA",
+     "year": 2022,
+     "spotify": "https://open.spotify.com/track/67v2UHujFruxWrDmjPYxD6",
+     "apple": "https://music.apple.com/us/album/persuasive/1634737561?i=1634737576"
+    },
+    {
+     "title": "Hold On, We're Going Home",
+     "artist": "Drake",
+     "year": null,
+     "spotify": "https://open.spotify.com/track/6jdOi5U5LBzQrc4c1VT983",
+     "apple": "https://music.apple.com/us/album/hold-on-were-going-home-feat-majid-jordan/1440829462?i=1440829630"
+    },
+    {
+     "title": "Houdini",
+     "artist": "Dua Lipa",
+     "year": 2023,
+     "spotify": "https://open.spotify.com/track/65AjgsSuwgD1vj7Y7XGe6I",
+     "apple": "https://music.apple.com/us/album/houdini/1714502820?i=1714502827"
+    },
+    {
+     "title": "Go Easy",
+     "artist": "Dua Lipa",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/go-easy/6812476961?i=6812477282"
+    },
+    {
+     "title": "Cool Kids",
+     "artist": "Echosmith",
+     "year": 2013,
+     "spotify": "https://open.spotify.com/track/3eOeuofLjOgjOCs7eWuvZ0",
+     "apple": "https://music.apple.com/us/album/cool-kids/924487443?i=924487455"
+    },
+    {
+     "title": "Be Her",
+     "artist": "Ella Langley",
+     "year": null,
+     "spotify": "https://open.spotify.com/track/13HD3tYTiz8oSRxWzXEq7g",
+     "apple": "https://music.apple.com/us/album/be-her/1869436835?i=1869436845"
+    },
+    {
+     "title": "Pumped Up Kicks",
+     "artist": "Foster the People",
+     "year": 2011,
+     "spotify": "https://open.spotify.com/track/7w87IxuO7BDcJ3YUqCyMTT",
+     "apple": "https://music.apple.com/us/album/pumped-up-kicks/435761204?i=435761212"
+    },
+    {
+     "title": "Lost",
+     "artist": "Frank Ocean",
+     "year": null,
+     "spotify": "https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723"
+    },
+    {
+     "title": "Only Happy When It Rains",
+     "artist": "Garbage",
+     "year": 1995,
+     "spotify": "https://open.spotify.com/track/1IsGA5ceSC4a5nxgAEYnQd",
+     "apple": "https://music.apple.com/us/album/only-happy-when-it-rains/1440827138?i=1440827326"
+    },
+    {
+     "title": "Fastlove, Pt. 1",
+     "artist": "George Michael",
+     "year": null,
+     "spotify": "https://open.spotify.com/track/6SaeXxdt0Id6ZzmX0ZGTQK",
+     "apple": "https://music.apple.com/us/album/fastlove-pt-1/412453578?i=412453580"
+    },
+    {
+     "title": "Strict Machine",
+     "artist": "Goldfrapp",
+     "year": null,
+     "spotify": "https://open.spotify.com/track/1SyOjtLqqqk2AVLZnRI3bk"
+    },
+    {
+     "title": "DARE",
+     "artist": "Gorillaz",
+     "year": 2005,
+     "spotify": "https://open.spotify.com/track/4Hff1IjRbLGeLgFgxvHflk",
+     "apple": "https://music.apple.com/us/album/dare-feat-shaun-ryder-roses-gabor/850571319?i=850571388"
+    },
+    {
+     "title": "What You Waiting For?",
+     "artist": "Gwen Stefani",
+     "year": 2004,
+     "spotify": "https://open.spotify.com/track/7bZsx7Zif6FIhrcZrh0LVm",
+     "apple": "https://music.apple.com/us/album/what-you-waiting-for-remastered-2019/1488136194?i=1488136748"
+    },
+    {
+     "title": "Rich Girl",
+     "artist": "Gwen Stefani feat. Eve",
+     "year": null,
+     "spotify": "https://open.spotify.com/track/1pneXwGzRiIGUC7TjZtLgz",
+     "apple": "https://music.apple.com/us/album/rich-girl-feat-eve/1452869898?i=1452870036"
+    },
+    {
+     "title": "Move Your Body",
+     "artist": "Xpansions",
+     "year": null,
+     "spotify": "https://open.spotify.com/track/1VLEbclmTbYS9Rdp1b90Yf",
+     "apple": "https://music.apple.com/us/album/move-your-body/1356263201?i=1356263202"
+    },
+    {
+     "title": "Crush",
+     "artist": "Jennifer Paige",
+     "year": null,
+     "spotify": "https://open.spotify.com/track/6wAV49hRfOiCTHztORMy8Y",
+     "apple": "https://music.apple.com/us/album/crush/1443763922?i=1443763926"
+    },
+    {
+     "title": "Power Trip",
+     "artist": "Jennie",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/power-trip/6812476961?i=6812477311"
+    },
+    {
+     "title": "Earthquake",
+     "artist": "Jisoo",
+     "year": 2025,
+     "spotify": "https://open.spotify.com/track/10zywlg5b0gQOC3q1A7ADx",
+     "apple": "https://music.apple.com/us/album/earthquake/1794049581?i=1794049591"
+    },
+    {
+     "title": "Wild Ones",
+     "artist": "Jessie Murph & Jelly Roll",
+     "year": null,
+     "spotify": "https://open.spotify.com/track/2kE2HFBFkJ0VMw3igxYohz",
+     "apple": "https://music.apple.com/us/album/wild-ones/1727004097?i=1727004103"
+    },
+    {
+     "title": "DVNO",
+     "artist": "Justice",
+     "year": 2007,
+     "spotify": "https://open.spotify.com/track/7pdDBqpilpdW7c40DpFMW9",
+     "apple": "https://music.apple.com/us/album/dvno-justice-remix/1331021452?i=1331022615"
+    },
+    {
+     "title": "Friends",
+     "artist": "Justin Bieber feat. BloodPop",
+     "year": null,
+     "spotify": "https://open.spotify.com/track/7iNIg7XDEaYECfWD5dJ9Va",
+     "apple": "https://music.apple.com/us/album/friends/1444849157?i=1444849161"
+    },
+    {
+     "title": "Gabriela",
+     "artist": "KATSEYE",
+     "year": 2025,
+     "spotify": "https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL",
+     "apple": "https://music.apple.com/us/album/gabriela/1811464270?i=1811464273"
+    },
+    {
+     "title": "Tenderoni",
+     "artist": "Kele",
+     "year": null,
+     "spotify": "https://open.spotify.com/track/4hrxnuOZI4dlFxjztQs9uJ",
+     "apple": "https://music.apple.com/us/album/tenderoni/1771711085?i=1771711095"
+    },
+    {
+     "title": "Motivation",
+     "artist": "Kelly Rowland feat. Lil Wayne",
+     "year": null,
+     "spotify": "https://open.spotify.com/track/4Cv5dkUBqepa0siwGREihD",
+     "apple": "https://music.apple.com/us/album/motivation-feat-lil-wayne/1445291246?i=1445291249"
+    },
+    {
+     "title": "Mr Cool",
+     "artist": "Kenya Grace",
+     "year": 2025,
+     "spotify": "https://open.spotify.com/track/5vRvTccr05SrSnqVvNAmVX",
+     "apple": "https://music.apple.com/us/album/mr-cool/1818226363?i=1818226365"
+    },
+    {
+     "title": "Turn Me On",
+     "artist": "Kevin Lyttle",
+     "year": 2003,
+     "spotify": "https://open.spotify.com/track/0BBOLOV5JntPL3341swIre",
+     "apple": "https://music.apple.com/us/album/turn-me-on/6337741?i=6337732"
+    },
+    {
+     "title": "Spinning Around",
+     "artist": "Kylie Minogue",
+     "year": 2000,
+     "spotify": "https://open.spotify.com/track/0JcgDliDqDac8iOFFRm7tZ",
+     "apple": "https://music.apple.com/us/album/spinning-around/697334317?i=697335612"
+    },
+    {
+     "title": "Bulletproof",
+     "artist": "La Roux",
+     "year": 2009,
+     "spotify": "https://open.spotify.com/track/3kMrazSvILsgcwtidZd1Qd",
+     "apple": "https://music.apple.com/us/album/bulletproof/1440747303?i=1440747711"
+    },
+    {
+     "title": "Crazy for You",
+     "artist": "Lana Del Rey",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/crazy-for-you/6812476961?i=6812477319"
+    },
+    {
+     "title": "Green Light",
+     "artist": "Lorde",
+     "year": null,
+     "spotify": "https://open.spotify.com/track/6ie2Bw3xLj2JcGowOlcMhb",
+     "apple": "https://music.apple.com/us/album/green-light/1429662346?i=1429663163"
+    },
+    {
+     "title": "Give Me All Your Luvin'",
+     "artist": "Madonna feat. Nicki Minaj & M.I.A.",
+     "year": 2012,
+     "spotify": "https://open.spotify.com/track/66G6rwvTVGLCaxadWrupg1",
+     "apple": "https://music.apple.com/us/album/give-me-all-your-luvin-feat-nicki-minaj-m-i-a-radio-edit/1862324654?i=1862324888"
+    },
+    {
+     "title": "Lean On",
+     "artist": "Major Lazer, DJ Snake & MØ",
+     "year": null,
+     "spotify": "https://open.spotify.com/track/593WkeQ4mZS81CUJW7yjUv",
+     "apple": "https://music.apple.com/us/album/lean-on-feat-dj-snake-m%C3%B8/1696651033?i=1696651165"
+    },
+    {
+     "title": "Someday",
+     "artist": "Mariah Carey",
+     "year": null,
+     "spotify": "https://open.spotify.com/track/6TSM5vkz0WzyZsNAKKYDcw"
+    },
+    {
+     "title": "Candy",
+     "artist": "Mandy Moore",
+     "year": null,
+     "spotify": "https://open.spotify.com/track/2YhE6xeWN0R9RVwEOG9lR1",
+     "apple": "https://music.apple.com/us/album/candy/193018462?i=193018496"
+    },
+    {
+     "title": "Forever More",
+     "artist": "Moloko",
+     "year": null,
+     "spotify": "https://open.spotify.com/track/5up40n9vezjnDSylEPDUTK",
+     "apple": "https://music.apple.com/us/album/forever-more/1436335511?i=1436335521"
+    },
+    {
+     "title": "Last Thing You Need",
+     "artist": "Morgan Wallen",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/last-thing-you-need/6812476961?i=6812477290"
+    },
+    {
+     "title": "Electric Feel",
+     "artist": "MGMT",
+     "year": 2008,
+     "spotify": "https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt",
+     "apple": "https://music.apple.com/us/album/electric-feel-justice-remix/284741732?i=284741737"
+    },
+    {
+     "title": "Got Your Money",
+     "artist": "Ol' Dirty Bastard & Kelis",
+     "year": 1999,
+     "spotify": "https://open.spotify.com/track/0p0O1N2Jndw4usYNjNBnGb",
+     "apple": "https://music.apple.com/us/album/got-your-money-feat-kelis/300968587?i=300968942"
+    },
+    {
+     "title": "good 4 u",
+     "artist": "Olivia Rodrigo",
+     "year": 2021,
+     "spotify": "https://open.spotify.com/track/6PERP62TejQjgHu81OHxgM",
+     "apple": "https://music.apple.com/us/album/good-4-u/1582277315?i=1582277652"
+    },
+    {
+     "title": "1901",
+     "artist": "Phoenix",
+     "year": 2009,
+     "spotify": "https://open.spotify.com/track/68hYdj3GepWm2R202KhJT7",
+     "apple": "https://music.apple.com/us/album/1901/1771710012?i=1771710539"
+    },
+    {
+     "title": "So Hot",
+     "artist": "Prospa feat. Halsey",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "TRDWFE",
+     "artist": "Rina Sawayama",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/trdwfe/6812476961?i=6812477317"
+    },
+    {
+     "title": "Blow My Mind (CA7RIEL & Paco Amoroso Version)",
+     "artist": "Robyn & CA7RIEL & Paco Amoroso",
+     "year": null,
+     "spotify": "https://open.spotify.com/track/2Fn0xjZZa6ma1WgwyHM69k",
+     "apple": "https://music.apple.com/us/album/blow-my-mind-ca7riel-paco-amoroso-version/1894344139?i=1894344140"
+    },
+    {
+     "title": "Show Me Love",
+     "artist": "Robyn",
+     "year": 1995,
+     "spotify": "https://open.spotify.com/track/3gKL2RRGnquktudCkkBC0X",
+     "apple": "https://music.apple.com/us/album/show-me-love/304745139?i=304745146"
+    },
+    {
+     "title": "All Again",
+     "artist": "Rose Gray",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/all-again/6812476961?i=6812477318"
+    },
+    {
+     "title": "People Watching",
+     "artist": "Sam Fender",
+     "year": null,
+     "spotify": "https://open.spotify.com/track/3ZZyUf7WkhfN1JkQZZ00fI",
+     "apple": "https://music.apple.com/us/album/people-watching/1778713616?i=1778713618"
+    },
+    {
+     "title": "Disparate Youth",
+     "artist": "Santigold",
+     "year": 2012,
+     "spotify": "https://open.spotify.com/track/0t2QiRkpag0fAgs9zuCPlH",
+     "apple": "https://music.apple.com/us/album/disparate-youth/513472738?i=513472740"
+    },
+    {
+     "title": "Cheap Thrills",
+     "artist": "Sia",
+     "year": 2015,
+     "spotify": "https://open.spotify.com/track/5JpOV1GfgLcKc2lzR6lywq",
+     "apple": "https://music.apple.com/us/album/cheap-thrills/1055074478?i=1055074640"
+    },
+    {
+     "title": "Sports car",
+     "artist": "Tate McRae",
+     "year": 2025,
+     "spotify": "https://open.spotify.com/track/2zOmS55knKWSgScYPTNmGQ",
+     "apple": "https://music.apple.com/us/album/sports-car/1779319620?i=1779319634"
+    },
+    {
+     "title": "Inner Smile",
+     "artist": "Texas",
+     "year": null,
+     "spotify": "https://open.spotify.com/track/0yvDNlMoafoHNR9M5LIOGJ",
+     "apple": "https://music.apple.com/us/album/inner-smile/1663571526?i=1663571812"
+    },
+    {
+     "title": "That's Not My Name",
+     "artist": "The Ting Tings",
+     "year": 2007,
+     "spotify": "https://open.spotify.com/track/1i1OuCNhNf7JwrlWlFZFu1",
+     "apple": "https://music.apple.com/us/album/thats-not-my-name/1308567129?i=1308567737"
+    },
+    {
+     "title": "Heat",
+     "artist": "Tove Lo & SG Lewis",
+     "year": null,
+     "spotify": "https://open.spotify.com/track/3Du9k9oZz7DJCMZviju2lD",
+     "apple": "https://music.apple.com/us/album/heat/1749612943?i=1749613191"
+    },
+    {
+     "title": "Blood in Your Eyes",
+     "artist": "Tove Lo",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "Girls",
+     "artist": "TSHA feat. Rose Gray",
+     "year": null,
+     "spotify": "https://open.spotify.com/track/5XWwqKNVlQO07sdngDh8iL",
+     "apple": "https://music.apple.com/us/album/girls-bubblegum-version/1786168242?i=1786168248"
+    },
+    {
+     "title": "Wanderlust",
+     "artist": "The Weeknd",
+     "year": 2013,
+     "spotify": "https://open.spotify.com/track/3b30Kdm3nKrD352zEPCAda",
+     "apple": "https://music.apple.com/us/album/wanderlust/1422667786?i=1422668493"
+    },
+    {
+     "title": "Lemon",
+     "artist": "U2",
+     "year": null,
+     "spotify": "https://open.spotify.com/track/3GtaFJ4Zx7TEBU8yUXtdOx",
+     "apple": "https://music.apple.com/us/album/lemon/1442968012?i=1442968380"
+    },
+    {
+     "title": "DJ Got Us Fallin' In Love",
+     "artist": "Usher, Pitbull",
+     "year": 2010,
+     "spotify": "https://open.spotify.com/track/4356Typ82hUiFAynbLYbPn",
+     "apple": "https://music.apple.com/us/album/dj-got-us-fallin-in-love-feat-pitbull/529020307?i=529020329"
+    },
+    {
+     "title": "Lazy",
+     "artist": "X-Press 2 feat. David Byrne",
+     "year": 2002,
+     "spotify": "https://open.spotify.com/track/2IhsxXGKDltJu5PCA8yExZ"
+    },
+    {
+     "title": "Midnight Sun (Girls Trip)",
+     "artist": "Zara Larsson & PinkPantheress",
+     "year": 2026,
+     "spotify": "https://open.spotify.com/track/2FHGYrQEmuWGX24QoQtQ13",
+     "apple": "https://music.apple.com/us/album/midnight-sun-girls-trip/1894058251?i=1894058258"
+    },
+    {
+     "title": "Fast Emotion",
+     "artist": "Zara Larsson",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/fast-emotion/6812476961?i=6812477313"
+    },
+    {
+     "title": "Unwritten",
+     "artist": "Natasha Bedingfield",
+     "year": 2004,
+     "spotify": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf",
+     "apple": "https://music.apple.com/us/album/unwritten/430514888?i=430514893"
+    }
+   ]
+  },
+  {
+   "id": "gloriana-blues-radio",
+   "name": "Gloriana Blues Radio",
+   "frequency": "",
+   "genre": "Blues",
+   "hosts": [],
+   "description": "A blues station playing historic and modern blues recordings, hosted by Keith Richards and Buddy Guy.",
+   "note": "",
+   "accent": "#6FE0C8",
+   "songs": [
+    {
+     "title": "Ice Pick",
+     "artist": "Albert Collins",
+     "year": 1978,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/ice-pick/1881129810?i=1881129813"
+    },
+    {
+     "title": "Chains and Things",
+     "artist": "B.B. King",
+     "year": 1970,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/chains-and-things/1434774552?i=1434774579"
+    },
+    {
+     "title": "Bumble Bee",
+     "artist": "Big Mama Thornton",
+     "year": 1966,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/bumble-bee/1508957072?i=1508958080"
+    },
+    {
+     "title": "I'm a Man",
+     "artist": "Bo Diddley",
+     "year": 1955,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/im-a-man/1469574409?i=1469574540"
+    },
+    {
+     "title": "Stone Crazy",
+     "artist": "Buddy Guy",
+     "year": 1961,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/stone-crazy/1573502350?i=1573502363"
+    },
+    {
+     "title": "One Scotch, One Bourbon, One Beer",
+     "artist": "Champion Jack Dupree",
+     "year": 1953,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/one-scotch-one-bourbon-one-beer-bonus-track/1443565518?i=1443566284"
+    },
+    {
+     "title": "Blue Guitar",
+     "artist": "Earl Hooker",
+     "year": 1969,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/blue-guitar/1720140419?i=1720140425"
+    },
+    {
+     "title": "Trouble in Mind",
+     "artist": "Ella Fitzgerald",
+     "year": 1963,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/trouble-in-mind/1444107318?i=1444107336"
+    },
+    {
+     "title": "Yonder Wall",
+     "artist": "Freddie King",
+     "year": 1970,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/yonder-wall/276978604?i=276978689"
+    },
+    {
+     "title": "Smokestack Lightnin'",
+     "artist": "Howlin' Wolf",
+     "year": 1956,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/smokestack-lightnin/1425203542?i=1425203551"
+    },
+    {
+     "title": "That's All Right",
+     "artist": "Jimmy Rogers",
+     "year": 1950,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/thats-all-right/1484897660?i=1484897663"
+    },
+    {
+     "title": "Boogie Chillen'",
+     "artist": "John Lee Hooker",
+     "year": 1948,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/boogie-chillen/1621355377?i=1621355393"
+    },
+    {
+     "title": "Dimples",
+     "artist": "John Lee Hooker",
+     "year": 1956,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/dimples/1720265278?i=1720265285"
+    },
+    {
+     "title": "Feels So Good #1",
+     "artist": "Junior Kimbrough",
+     "year": 2009,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/feels-so-good-1/1074125148?i=1074125153"
+    },
+    {
+     "title": "Bright Lights, Big City",
+     "artist": "Keith Richards",
+     "year": 2026,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/bright-lights-big-city/6812476961?i=6812477507"
+    },
+    {
+     "title": "I Got What It Takes",
+     "artist": "Koko Taylor",
+     "year": 1975,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/i-got-what-it-takes/1881130178?i=1881130181"
+    },
+    {
+     "title": "Back to New Orleans",
+     "artist": "Lightnin' Hopkins",
+     "year": 1961,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/back-to-new-orleans/1442837085?i=1442837240"
+    },
+    {
+     "title": "Hoodoo Blues",
+     "artist": "Lightnin' Slim",
+     "year": 1957,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/hoodoo-blues/1600084048?i=1600084339"
+    },
+    {
+     "title": "Me and My Chauffeur",
+     "artist": "Memphis Minnie",
+     "year": 1941,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/me-and-my-chauffeur/1445754229?i=1445755579"
+    },
+    {
+     "title": "Got My Mojo Working",
+     "artist": "Muddy Waters",
+     "year": 1957,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/got-my-mojo-working-pt-2-live-at-newport-jazz-festival-1960/1484105309?i=1484105531"
+    },
+    {
+     "title": "Didn't It Rain",
+     "artist": "Sister Rosetta Tharpe",
+     "year": 1948,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/didnt-it-rain/426894500?i=426894504"
+    },
+    {
+     "title": "Baby Scratch My Back",
+     "artist": "Slim Harpo",
+     "year": 1965,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/baby-scratch-my-back-single-version/1445958767?i=1445959054"
+    },
+    {
+     "title": "Bring It On Home",
+     "artist": "Sonny Boy Williamson II",
+     "year": 1966,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/bring-it-on-home/1435009874?i=1435009956"
+    }
+   ]
+  },
+  {
+   "id": "honey-fm",
+   "name": "Honey FM",
+   "frequency": "",
+   "genre": "R&B · Soul",
+   "hosts": [
+    "Chilli",
+    "T-Boz"
+   ],
+   "description": "A station playing 1990s R&B and soul, alongside related hits from other decades. It is hosted by Chilli and T-Boz.",
+   "note": "",
+   "accent": "#C98CFF",
+   "songs": [
+    {
+     "title": "Dance With Me",
+     "artist": "112",
+     "year": 2001,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/dance-with-me/599900031?i=599900039"
+    },
+    {
+     "title": "Locked Up",
+     "artist": "Akon feat. Styles P",
+     "year": 2004,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/locked-up-remix/1443623819?i=1443624549"
+    },
+    {
+     "title": "Sweet Love",
+     "artist": "Anita Baker",
+     "year": 1986,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/sweet-love/1018520424?i=1018520425"
+    },
+    {
+     "title": "Solid",
+     "artist": "Ashford & Simpson",
+     "year": 1984,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/solid/714709791?i=714710062"
+    },
+    {
+     "title": "Whip Appeal",
+     "artist": "Babyface",
+     "year": 1989,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/whip-appeal/250689978?i=250690025"
+    },
+    {
+     "title": "Your Sweetness Is My Weakness",
+     "artist": "Barry White",
+     "year": 1978,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/your-sweetness-is-my-weakness-single-version/1425175877?i=1425176055"
+    },
+    {
+     "title": "The Vampire That Ate Miami",
+     "artist": "Blowfly",
+     "year": 1983,
+     "spotify": null
+    },
+    {
+     "title": "Hit 'Em Up Style (Oops!)",
+     "artist": "Blu Cantrell",
+     "year": 2001,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/hit-em-up-style-oops/311538851?i=311539115"
+    },
+    {
+     "title": "Humpin' Around",
+     "artist": "Bobby Brown",
+     "year": 1992,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/humpin-around/1423319055?i=1423320021"
+    },
+    {
+     "title": "Baby",
+     "artist": "Brandy",
+     "year": 1994,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/baby/321974621?i=321974626"
+    },
+    {
+     "title": "The Boy Is Mine",
+     "artist": "Brandy, Monica",
+     "year": 1998,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/the-boy-is-mine/1031604785?i=1031604799"
+    },
+    {
+     "title": "Pullin' Me Back",
+     "artist": "Chingy, Tyrese",
+     "year": 2006,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/pullin-me-back-feat-tyrese/716656202?i=716656766"
+    },
+    {
+     "title": "I Adore Mi Amor",
+     "artist": "Color Me Badd",
+     "year": 1991,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/i-adore-mi-amor/281619445?i=281619502"
+    },
+    {
+     "title": "Lady",
+     "artist": "D'Angelo",
+     "year": 1995,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/lady/1440842296?i=1440842313"
+    },
+    {
+     "title": "After the Love Has Gone",
+     "artist": "Earth, Wind and Fire",
+     "year": 1979,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/after-the-love-has-gone/523223720?i=523223723"
+    },
+    {
+     "title": "I Need a Freak",
+     "artist": "Egyptian Lover",
+     "year": 1994,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/i-need-a-freak/1082070832?i=1082070914"
+    },
+    {
+     "title": "Love Like This",
+     "artist": "Faith Evans",
+     "year": 1998,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/love-like-this/80979591?i=80979120"
+    },
+    {
+     "title": "Shake You Down",
+     "artist": "Gregory Abbott",
+     "year": 1986,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/shake-you-down/1252719271?i=1252719278"
+    },
+    {
+     "title": "Tell Me",
+     "artist": "Groove Theory",
+     "year": 1995,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/tell-me/157329594?i=157330334"
+    },
+    {
+     "title": "Where the Party At",
+     "artist": "Jagged Edge",
+     "year": 2001,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/where-the-party-at-feat-nelly-lp-mix-featuring-nelly/193019859?i=193019862"
+    },
+    {
+     "title": "Birthday Sex",
+     "artist": "Jeremih",
+     "year": 2009,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/birthday-sex/1444029374?i=1444029383"
+    },
+    {
+     "title": "Feenin'",
+     "artist": "Jodeci",
+     "year": 1993,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/feenin/1440637554?i=1440637558"
+    },
+    {
+     "title": "Looking for a New Love",
+     "artist": "Jody Watley",
+     "year": 1987,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/looking-for-a-new-love-single/1445876347?i=1445876592"
+    },
+    {
+     "title": "Ride Wit U",
+     "artist": "Joe, G-Unit",
+     "year": 2003,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/ride-wit-u-feat-g-unit/254003221?i=254003282"
+    },
+    {
+     "title": "Twisted",
+     "artist": "Keith Sweat",
+     "year": 1996,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/twisted/30372370?i=30372391"
+    },
+    {
+     "title": "Intimate Connection",
+     "artist": "Kleeer",
+     "year": 1984,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/intimate-connection/285632858?i=285632960"
+    },
+    {
+     "title": "Casanova",
+     "artist": "LeVert",
+     "year": 1987,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/casanova/384975076?i=384975085"
+    },
+    {
+     "title": "Slow Down",
+     "artist": "Loose Ends",
+     "year": 1986,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/slow-down/714419831?i=714420052"
+    },
+    {
+     "title": "Vision of Love",
+     "artist": "Mariah Carey",
+     "year": 1990,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/vision-of-love/169605890?i=169605940"
+    },
+    {
+     "title": "Get Your Number",
+     "artist": "Mariah Carey, Jermaine Dupri",
+     "year": 2005,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/get-your-number-feat-jermaine-dupri/1476731879?i=1476731966"
+    },
+    {
+     "title": "My Life",
+     "artist": "Mary J. Blige",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/my-life/1440837272?i=1440838052"
+    },
+    {
+     "title": "Slow Jam",
+     "artist": "Midnight Star",
+     "year": 1983,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/slow-jam/282863529?i=282863693"
+    },
+    {
+     "title": "Get It On Tonite",
+     "artist": "Montell Jordan",
+     "year": 1999,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/get-it-on-tonite/1444201568?i=1444201924"
+    },
+    {
+     "title": "Too Close",
+     "artist": "Next",
+     "year": 1997,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/too-close-radio-edit/1310014905?i=1310015120"
+    },
+    {
+     "title": "Handcuffs",
+     "artist": "Parliament",
+     "year": 1975,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/handcuffs/1440837684?i=1440837698"
+    },
+    {
+     "title": "Here We Go Again!",
+     "artist": "Portrait",
+     "year": 1992,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/here-we-go-again/1443261376?i=1443261381"
+    },
+    {
+     "title": "On the Hotline",
+     "artist": "Pretty Ricky",
+     "year": 2006,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/on-the-hotline/212226767?i=212227007"
+    },
+    {
+     "title": "She Blew My Mind (69 Times)",
+     "artist": "Rick James",
+     "year": 1982,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/she-blew-my-mind-69-times-single-version/1434912461?i=1434912604"
+    },
+    {
+     "title": "Love Don't Live Here Anymore",
+     "artist": "Rose Royce",
+     "year": 1978,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/love-dont-live-here-anymore/299547410?i=299547432"
+    },
+    {
+     "title": "Freak Me",
+     "artist": "Silk",
+     "year": 1992,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/freak-me/18166627?i=18166770"
+    },
+    {
+     "title": "Optimistic",
+     "artist": "Sounds of Blackness",
+     "year": 1991,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/optimistic/1440907951?i=1440908078"
+    },
+    {
+     "title": "Buy U a Drank (Shawty Snappin')",
+     "artist": "T-Pain, Yung Joc",
+     "year": 2007,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/buy-u-a-drank-shawty-snappin-feat-yung-joc/1556722097?i=1556722419"
+    },
+    {
+     "title": "I'm N Luv (Wit a Stripper)",
+     "artist": "T-Pain, Mike Jones",
+     "year": 2005,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/im-n-luv-wit-a-dancer-feat-mike-jones/1555750800?i=1555750929"
+    },
+    {
+     "title": "Creep",
+     "artist": "TLC",
+     "year": 1994,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/creep/270246704?i=270246711"
+    },
+    {
+     "title": "You're Makin' Me High",
+     "artist": "Toni Braxton",
+     "year": 1996,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/youre-makin-me-high/526521410?i=526521415"
+    },
+    {
+     "title": "Hit The Freeway",
+     "artist": "Toni Braxton, Loon",
+     "year": 2002,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/hit-the-freeway-feat-loon-radio-version-with-rap/306682410?i=306682538"
+    },
+    {
+     "title": "Feels Good",
+     "artist": "Tony! Toni! Toné!",
+     "year": 1990,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/feels-good-12-party-mix/1738562889?i=1738563505"
+    },
+    {
+     "title": "Can't You See",
+     "artist": "Total, The Notorious B.I.G.",
+     "year": 1995,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/cant-you-see-feat-the-notorious-b-i-g-2016-remaster/1131811166?i=1131821411"
+    },
+    {
+     "title": "Bad Girl",
+     "artist": "Usher",
+     "year": 2004,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/bad-girl/386153476?i=386153692"
+    },
+    {
+     "title": "No Letting Go",
+     "artist": "Wayne Wonder",
+     "year": 2003,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/no-letting-go/921538395?i=921538446"
+    },
+    {
+     "title": "Hey Mr. D.J.",
+     "artist": "Zhané",
+     "year": 1993,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/hey-mr-d-j/1443120621?i=1443120626"
+    },
+    {
+     "title": "What About Your Friends",
+     "artist": "TLC",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/what-about-your-friends/258594540?i=258595869"
+    },
+    {
+     "title": "Come In Liquid City (Theme Song)",
+     "artist": "Liquid Wilson",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "Finger Bang My Heart",
+     "artist": "Liquid Wilson",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "Girl In Gloriana",
+     "artist": "Liquid Wilson",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "Liquids Words of Wisdom",
+     "artist": "Liquid Wilson",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "Oochie Coochie Man",
+     "artist": "Liquid Wilson",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "Sex Specs",
+     "artist": "Liquid Wilson",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "Sexification",
+     "artist": "Liquid Wilson",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "Titties For Liquid",
+     "artist": "Liquid Wilson",
+     "year": null,
+     "spotify": null
+    }
+   ]
+  },
+  {
+   "id": "kaleidoscope-fm",
+   "name": "Kaleidoscope FM",
+   "frequency": "",
+   "genre": "",
+   "hosts": [],
+   "description": "",
+   "note": "",
+   "accent": "#FF7FA8",
+   "songs": [
+    {
+     "title": "Say It Right",
+     "artist": "Alim Qasimov & Fargana Qasimova",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "Ola Afta Pou Fovamai",
+     "artist": "Alkistis Protopsalti",
+     "year": 2004,
+     "spotify": "https://open.spotify.com/track/3xASOJGRp4JYzevvWDS5Fs"
+    },
+    {
+     "title": "Tvoj Svijet",
+     "artist": "Brazil",
+     "year": 1990,
+     "spotify": "https://open.spotify.com/track/2AC8keIs9BULEOw72pe1oD",
+     "apple": "https://music.apple.com/us/album/tvoj-svijet/1532147081?i=1532147100"
+    },
+    {
+     "title": "T' Materiaal",
+     "artist": "Don Melody Club",
+     "year": 2023,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/t-materiaal/1727721366?i=1727721371"
+    },
+    {
+     "title": "Al Zman Saib",
+     "artist": "Fadoul",
+     "year": 1971,
+     "spotify": "https://open.spotify.com/track/2mRMVHPh3ivbKvgJy7dzk2",
+     "apple": "https://music.apple.com/us/album/al-zman-saib/1834598325?i=1834598332"
+    },
+    {
+     "title": "Gan Ai Gan Zuo",
+     "artist": "George Lam",
+     "year": 1987,
+     "spotify": null
+    },
+    {
+     "title": "Lola",
+     "artist": "Heinz Rudolf Kunze",
+     "year": 1984,
+     "spotify": "https://open.spotify.com/track/0arWrIF8UbyS3CFH7NLhOd",
+     "apple": "https://music.apple.com/us/album/lola/1680002071?i=1680002943"
+    },
+    {
+     "title": "Kumbia Dark",
+     "artist": "Kumbia Queers",
+     "year": 2007,
+     "spotify": "https://open.spotify.com/track/5uGaY5HLFUrShDccc8dVvJ",
+     "apple": "https://music.apple.com/us/album/kumbia-dark/1635463635?i=1635463699"
+    },
+    {
+     "title": "Geburt einer Nation",
+     "artist": "Laibach",
+     "year": 1987,
+     "spotify": "https://open.spotify.com/track/6laYlbnZFHcRBZq4L8CAkA",
+     "apple": "https://music.apple.com/us/album/geburt-einer-nation/828105914?i=828105929"
+    },
+    {
+     "title": "Sinfonía Agridulce",
+     "artist": "Mexican Institute of Sound",
+     "year": 2009,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/sinfon%C3%ADa-agridulce/1510503620?i=1510504149"
+    },
+    {
+     "title": "Chia Tay Trong Mua",
+     "artist": "Phương Thanh",
+     "year": 2022,
+     "spotify": null
+    },
+    {
+     "title": "Rokkibaby",
+     "artist": "Rolf Bergström",
+     "year": 1974,
+     "spotify": "https://open.spotify.com/track/5QSVpE681VhS2IE53oX4GW",
+     "apple": "https://music.apple.com/us/album/rokkibaby/1521836481?i=1521836620"
+    },
+    {
+     "title": "Hai Capito O No?",
+     "artist": "Ron",
+     "year": 1983,
+     "spotify": "https://open.spotify.com/track/1xBMyLQh9cxjwRdwUqdLxC",
+     "apple": "https://music.apple.com/us/album/hai-capito-o-no/666948595?i=666948605"
+    },
+    {
+     "title": "Danse ta vie",
+     "artist": "Sylvie Vartan",
+     "year": 1983,
+     "spotify": "https://open.spotify.com/track/5ykyf6eobNjKnD6tq0UFc6",
+     "apple": "https://music.apple.com/us/album/danse-ta-vie/1614484978?i=1614484979"
+    },
+    {
+     "title": "Nobel",
+     "artist": "Touré Kunda",
+     "year": 2000,
+     "spotify": "https://open.spotify.com/track/1Mvio8ySoLlcorNWsBJ5SU"
+    },
+    {
+     "title": "Stupid Girl",
+     "artist": "Trevor M. Simpson & Hi Lo Singers",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "Ies Manziel",
+     "artist": "Wim Damri",
+     "year": 1989,
+     "spotify": null
+    },
+    {
+     "title": "Gloria",
+     "artist": "Mona Carita",
+     "year": null,
+     "spotify": null
+    }
+   ]
+  },
+  {
+   "id": "leonida-jazz-radio",
+   "name": "Leonida Jazz Radio",
+   "frequency": "",
+   "genre": "Jazz",
+   "hosts": [],
+   "description": "A jazz station featuring jazz fusion and recordings by prominent instrumentalists.",
+   "note": "",
+   "accent": "#FF6E7F",
+   "songs": [
+    {
+     "title": "Aguia nao come mosca",
+     "artist": "Azymuth",
+     "year": 1977,
+     "spotify": null
+    },
+    {
+     "title": "Blowin' Smoke",
+     "artist": "Badbadnotgood, Randy Brecker",
+     "year": 2026,
+     "spotify": null
+    },
+    {
+     "title": "Crosswind",
+     "artist": "Billy Cobham",
+     "year": 1974,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/crosswind/159362260?i=159362308"
+    },
+    {
+     "title": "Night Crawler",
+     "artist": "Bob James",
+     "year": 1977,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/night-crawler/1425699867?i=1425700223"
+    },
+    {
+     "title": "Maputo",
+     "artist": "Bob James, David Sanborn",
+     "year": 1986,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/maputo/1306540022?i=1306540651"
+    },
+    {
+     "title": "Funky Sea, Funky Dew",
+     "artist": "The Brecker Brothers",
+     "year": 1977,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/funky-sea-funky-dew/286064032?i=286064034"
+    },
+    {
+     "title": "Scrunch",
+     "artist": "The Brecker Brothers",
+     "year": 1994,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/scrunch/1443236399?i=1443236723"
+    },
+    {
+     "title": "Whatup",
+     "artist": "DOMi & JD Beck",
+     "year": 2022,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/whatup/1629562125?i=1629562308"
+    },
+    {
+     "title": "Time Limit",
+     "artist": "Casiopea",
+     "year": 1979,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/time-limit/1535034715?i=1535034719"
+    },
+    {
+     "title": "Modaji",
+     "artist": "Dave Grusin",
+     "year": 1977,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/modaji/1442874861?i=1442874947"
+    },
+    {
+     "title": "Breaking Point",
+     "artist": "David Sanborn",
+     "year": 1987,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/breaking-point/358001106?i=358001206"
+    },
+    {
+     "title": "Valdez in the Country",
+     "artist": "Donny Hathaway",
+     "year": 1973,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/valdez-in-the-country/731746642?i=731746787"
+    },
+    {
+     "title": "Mr. Groove",
+     "artist": "Euge Groove",
+     "year": 2008,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/mr-groove/712326880?i=712329987"
+    },
+    {
+     "title": "Silk",
+     "artist": "Fuse One",
+     "year": 1981,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/silk/1392265991?i=1392266856"
+    },
+    {
+     "title": "Mister Magic",
+     "artist": "Grover Washington Jr.",
+     "year": 1975,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/mister-magic/1440921658?i=1440921665"
+    },
+    {
+     "title": "Rotation",
+     "artist": "Herb Alpert",
+     "year": 1979,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/rotation/1525306657?i=1525307878"
+    },
+    {
+     "title": "Hotel Alphonso",
+     "artist": "Joe Armon-Jones",
+     "year": 2026,
+     "spotify": null
+    },
+    {
+     "title": "Stro Kyat",
+     "artist": "Kaidi Tatham feat. Stro Elliot",
+     "year": 2021,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/stro-kyat-feat-stro-elliot/1552374250?i=1552374263"
+    },
+    {
+     "title": "Tojo",
+     "artist": "Kokoroko",
+     "year": 2022,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/tojo/1614649802?i=1614650117"
+    },
+    {
+     "title": "Power",
+     "artist": "Marcus Miller",
+     "year": 2001,
+     "spotify": null
+    },
+    {
+     "title": "Mystery",
+     "artist": "Miles Davis",
+     "year": 1992,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/mystery/828607032?i=828607041"
+    },
+    {
+     "title": "Rye Lane Shuffle",
+     "artist": "Moses Boyd",
+     "year": 2018,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/rye-lane-shuffle/6828508806?i=6828508960"
+    },
+    {
+     "title": "WHIP.wav",
+     "artist": "Moses Yoofee Trio",
+     "year": 2025,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/whip-wav/1774189345?i=1774190537"
+    },
+    {
+     "title": "Betcha Don't Know",
+     "artist": "Najee",
+     "year": 1986,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/betcha-dont-know/723623527?i=723623747"
+    },
+    {
+     "title": "On My Way",
+     "artist": "The Kount, Carrtoons",
+     "year": 2022,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/on-my-way/1606996572?i=1606996573"
+    },
+    {
+     "title": "Humpty Dumpty",
+     "artist": "Placebo",
+     "year": 1971,
+     "spotify": null
+    },
+    {
+     "title": "Sorceress",
+     "artist": "Return to Forever",
+     "year": 1976,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/sorceress/1440927190?i=1440927646"
+    },
+    {
+     "title": "Always There",
+     "artist": "Ronnie Laws",
+     "year": 1975,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/always-there/723664773?i=723664942"
+    },
+    {
+     "title": "Wild Dog",
+     "artist": "Stanley Clarke, George Duke",
+     "year": 1981,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/wild-dog/200241312?i=200241477"
+    },
+    {
+     "title": "School Days",
+     "artist": "Stanley Clarke",
+     "year": 1976,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/school-days/525571557?i=525571558"
+    },
+    {
+     "title": "Overtown Lights",
+     "artist": "Stanley Clarke feat. Yussef Dayes and Robert Glasper",
+     "year": 2026,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/overtown-lights/6812476961?i=6812477516"
+    },
+    {
+     "title": "Forever More",
+     "artist": "Tom Browne",
+     "year": 1980,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/forever-more/1290541766?i=1290542535"
+    },
+    {
+     "title": "Fleer Ultra",
+     "artist": "Thundercat",
+     "year": 2011,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/fleer-ultra/453767128?i=453767199"
+    },
+    {
+     "title": "Sicily' Box",
+     "artist": "Venna, Yussef Dayes, Marco Bernadis, Rocco Palladino",
+     "year": 2023,
+     "spotify": null
+    },
+    {
+     "title": "Birdland",
+     "artist": "Weather Report",
+     "year": 1977,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/birdland/516411966?i=516411968"
+    },
+    {
+     "title": "Friends and Strangers",
+     "artist": "Dave Grusin",
+     "year": 1980,
+     "spotify": null
+    }
+   ]
+  },
+  {
+   "id": "radio-la-ola",
+   "name": "Radio La Ola",
+   "frequency": "",
+   "genre": "",
+   "hosts": [],
+   "description": "",
+   "note": "",
+   "accent": "#FFB35C",
+   "songs": [
+    {
+     "title": "Que Viva Chango",
+     "artist": "Albita Rodriguez and Willy Chirino",
+     "year": 1998,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/que-viva-chango/604837995?i=604838123"
+    },
+    {
+     "title": "Sopa de Caracol",
+     "artist": "Banda Blanca",
+     "year": 1991,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/sopa-de-caracol/1744216185?i=1744216411"
+    },
+    {
+     "title": "Que Bueno Baila Usted",
+     "artist": "Beny Moré",
+     "year": 1949,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/que-bueno-baila-usted/457717549?i=457717569"
+    },
+    {
+     "title": "Descarga Cubana",
+     "artist": "Cachao",
+     "year": 1959,
+     "spotify": "https://open.spotify.com/track/74oSFpUolw2zmHBhYn4nDZ",
+     "apple": "https://music.apple.com/us/album/descarga-cubana/351606223?i=351606334"
+    },
+    {
+     "title": "Bemba Colora",
+     "artist": "Celia Cruz",
+     "year": 1966,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/bemba-colora-live/1444081097?i=1444081241"
+    },
+    {
+     "title": "Besito de Coco",
+     "artist": "Celia Cruz feat. Johnny Pacheco",
+     "year": 1976,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/besito-de-coco-remastered-2026/1887985459?i=1887985461"
+    },
+    {
+     "title": "La Hija de Lola",
+     "artist": "Charlie Palmieri",
+     "year": 1973,
+     "spotify": "https://open.spotify.com/track/4x3SSqIllhVTdgdaCXmp96",
+     "apple": "https://music.apple.com/us/album/la-hija-de-lola/1464279388?i=1464279615"
+    },
+    {
+     "title": "Anacaona",
+     "artist": "Cheo Feliciano",
+     "year": 1971,
+     "spotify": "https://open.spotify.com/track/0NP1zQ8Oqlz43Q2QEjmghg",
+     "apple": "https://music.apple.com/us/album/anacaona-remastered-2025/1847697425?i=1847697427"
+    },
+    {
+     "title": "Brujeria",
+     "artist": "El Gran Combo de Puerto Rico",
+     "year": 1979,
+     "spotify": "https://open.spotify.com/track/0k1hbeZodoEw34FAdbh8xM",
+     "apple": "https://music.apple.com/us/album/brujeria/280795281?i=280795362"
+    },
+    {
+     "title": "No Hay Cama Pa' Tanta Gente",
+     "artist": "El Gran Combo de Puerto Rico",
+     "year": 1985,
+     "spotify": "https://open.spotify.com/track/6InAsgddPjAcuF7mSHDT8K",
+     "apple": "https://music.apple.com/us/album/no-hay-cama-pa-tanta-gente/291665034?i=291665058"
+    },
+    {
+     "title": "Tu Con El",
+     "artist": "Frankie Ruiz",
+     "year": 1985,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/tu-con-el/1632764907?i=1632764908"
+    },
+    {
+     "title": "Mi Tierra",
+     "artist": "Gloria Estefan",
+     "year": 1993,
+     "spotify": "https://open.spotify.com/track/41LiGcvaTkXHyPjfsxKvWv",
+     "apple": "https://music.apple.com/us/album/mi-tierra/196407720?i=196407939"
+    },
+    {
+     "title": "Kuku-Cha Ku-Cha",
+     "artist": "Hansel y Raul",
+     "year": 1976,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/kuku-cha-ku-cha/321383864?i=321384488"
+    },
+    {
+     "title": "Periodico de Ayer",
+     "artist": "Héctor Lavoe",
+     "year": 1976,
+     "spotify": null
+    },
+    {
+     "title": "Rebelion (No Le Pegue a la Negra)",
+     "artist": "Joe Arroyo y La Verdad",
+     "year": 1986,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/rebelion-no-le-pegue-a-la-negra/332555391?i=332555529"
+    },
+    {
+     "title": "Pavo Real",
+     "artist": "José Luis Rodríguez",
+     "year": 1979,
+     "spotify": "https://open.spotify.com/track/6upT1YVn1HuRNkpHgmyjAy",
+     "apple": "https://music.apple.com/us/album/pavo-real/321330844?i=321330863"
+    },
+    {
+     "title": "El Tigueron",
+     "artist": "Jossie Esteban & La Patrulla 15",
+     "year": 1990,
+     "spotify": "https://open.spotify.com/track/0Ksx9woWvIjFcziPYZ4HUx",
+     "apple": "https://music.apple.com/us/album/el-tigueron/278478706?i=278478717"
+    },
+    {
+     "title": "La Cartera",
+     "artist": "Orquesta Harlow",
+     "year": 1974,
+     "spotify": "https://open.spotify.com/track/1mpKcP8f2gQrInkh2FLb1N",
+     "apple": "https://music.apple.com/us/album/la-cartera-feat-junior-gonzalez/1464283725?i=1464284607"
+    },
+    {
+     "title": "Lloraras",
+     "artist": "Oscar D'León",
+     "year": 1975,
+     "spotify": null
+    },
+    {
+     "title": "Catalina la O",
+     "artist": "Pete \"El Conde\" Rodriguez",
+     "year": 1976,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/catalina-la-o-remastered-2026/1862307070?i=1862307071"
+    },
+    {
+     "title": "Caballo Viejo",
+     "artist": "Roberto Torres",
+     "year": 1980,
+     "spotify": "https://open.spotify.com/track/1anvIYY3hAtLL72lJA5z44",
+     "apple": "https://music.apple.com/us/album/caballo-viejo/1470458209?i=1470458699"
+    },
+    {
+     "title": "Abusadora",
+     "artist": "Wilfrido Vargas",
+     "year": 1981,
+     "spotify": "https://open.spotify.com/track/4MYKuvu5v5XoQ46DmgMtdP",
+     "apple": "https://music.apple.com/us/album/abusadora/304776726?i=304776748"
+    },
+    {
+     "title": "Ligia Elena",
+     "artist": "Willie Colón & Rubén Blades",
+     "year": 1981,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/ligia-elena/1464287933?i=1464288299"
+    },
+    {
+     "title": "Pedro Navaja",
+     "artist": "Willie Colón & Rubén Blades",
+     "year": 1978,
+     "spotify": "https://open.spotify.com/track/7aKs8kWKKau0SDgaeyZMAX",
+     "apple": "https://music.apple.com/us/album/pedro-navaja/1464956627?i=1464957419"
+    },
+    {
+     "title": "Soy Guajiro",
+     "artist": "Willy Chirino",
+     "year": 1998,
+     "spotify": "https://open.spotify.com/track/79bcWtD3pygiEKhgzzRzNg",
+     "apple": "https://music.apple.com/us/album/soy-guajiro/455672790?i=455672800"
+    }
+   ]
+  },
+  {
+   "id": "radio-on-u",
+   "name": "Radio On-U",
+   "frequency": "",
+   "genre": "Dub",
+   "hosts": [],
+   "description": "A station named after Adrian Sherwood's On-U Sound label, featuring dub, reggae, and related music.",
+   "note": "",
+   "accent": "#5FD3F3",
+   "songs": [
+    {
+     "title": "Dub Inspector",
+     "artist": "Adrian Sherwood",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/dub-inspector/1814464483?i=1814464485"
+    },
+    {
+     "title": "Ras Menilik Congo – Harp",
+     "artist": "Augustus Pablo",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "I'm So Sorry",
+     "artist": "Carroll Thompson",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/im-so-sorry/1560663499?i=1560663510"
+    },
+    {
+     "title": "Frontline Dub",
+     "artist": "Creation Rebel",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/frontline-dub/1727716495?i=1727716506"
+    },
+    {
+     "title": "Big Ship",
+     "artist": "Freddie McGregor",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "Mr. Cop",
+     "artist": "Gregory Isaacs",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/mr-cop/330601187?i=330601399"
+    },
+    {
+     "title": "Skylarking",
+     "artist": "Horace Andy",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/skylarking/193634107?i=193634203"
+    },
+    {
+     "title": "Silly Games",
+     "artist": "Janet Kay",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/silly-games-lovers-rock-edit/1567569328?i=1567569505"
+    },
+    {
+     "title": "I Am In Love",
+     "artist": "Jennifer Lara",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/i-am-in-love/1050835254?i=1050835267"
+    },
+    {
+     "title": "Everything I Own",
+     "artist": "Ken Boothe",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/everything-i-own/1686545679?i=1686545842"
+    },
+    {
+     "title": "Black Panta",
+     "artist": "Lee Perry & The Upsetters",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "Caught You in a Lie",
+     "artist": "Louisa Mark",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/caught-you-in-a-lie/1296214181?i=1296214187"
+    },
+    {
+     "title": "Under Me Sleng Teng Version",
+     "artist": "King Jammy",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "Hurt So Good",
+     "artist": "Susan Cadogan",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/hurt-so-good/1436067592?i=1436067595"
+    },
+    {
+     "title": "Jah Jah Dub The Conqueror",
+     "artist": "The Aggrovators, Linval Thompson, Bunny Lee & Prince Fatty",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/jah-jah-dub-the-conqueror/1705974828?i=1705975069"
+    },
+    {
+     "title": "Ragnampaiza Version",
+     "artist": "The Revolutionaries",
+     "year": null,
+     "spotify": null
+    }
+   ]
+  },
+  {
+   "id": "stockyard-fm",
+   "name": "Stockyard FM",
+   "frequency": "",
+   "genre": "Indie · House · Electrónica",
+   "hosts": [],
+   "description": "An indie, alternative dance, house, and electronic music station hosted by PinkPantheress as Victoria and The Dare as Harrison, with music curated with help from James Curd.",
+   "note": "",
+   "accent": "#9D8CFF",
+   "songs": [
+    {
+     "title": "All U Writers",
+     "artist": "!!!",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "Off the Grid",
+     "artist": "!!! feat. Meah Peace",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "Paradise",
+     "artist": "ANOTR",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/paradise/6800491553?i=6800491692"
+    },
+    {
+     "title": "Never Come Back",
+     "artist": "Caribou",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/never-come-back/1839112059?i=1839112068"
+    },
+    {
+     "title": "No Stress",
+     "artist": "CMD/CTRL",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/no-stress-dub-vip-mix/1654936157?i=1654936727"
+    },
+    {
+     "title": "Space Invaders",
+     "artist": "Digitalism",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/space-invaders/1882684982?i=1882684984"
+    },
+    {
+     "title": "Inner Light",
+     "artist": "Elderbrook & Bob Moses",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/inner-light/1582831419?i=1582831445"
+    },
+    {
+     "title": "Emerge",
+     "artist": "Fischerspooner",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/emerge-junkie-xl-remix/6809631346?i=6809631758"
+    },
+    {
+     "title": "Storm I",
+     "artist": "Gener8ion, Yung Lean",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "There Is Only Us",
+     "artist": "Favored Nations",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "Only One",
+     "artist": "Fcukers",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/only-one/6812476961?i=6812477315"
+    },
+    {
+     "title": "Bring Me Down",
+     "artist": "Fred Jesse",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "Nightmare",
+     "artist": "HEALTH",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/nightmare/6837496123?i=6837497982"
+    },
+    {
+     "title": "Soon",
+     "artist": "Holy Ghost!",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/soon/1454856432?i=1454856445"
+    },
+    {
+     "title": "Hungry Child",
+     "artist": "Hot Chip",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/hungry-child-edit/1455647920?i=1455647922"
+    },
+    {
+     "title": "Afterimage",
+     "artist": "Justice feat. RIMON",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/afterimage-justice-remix/1807338655?i=1807338658"
+    },
+    {
+     "title": "One Night/All Night",
+     "artist": "Justice & Tame Impala",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/one-night-all-night/1724935208?i=1724935688"
+    },
+    {
+     "title": "Time Machine",
+     "artist": "Kitty Ca$h, Thundercat, James Fauntleroy",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/time-machine/6827662360?i=6827662375"
+    },
+    {
+     "title": "North American Scum",
+     "artist": "LCD Soundsystem",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/north-american-scum/742432549?i=742434937"
+    },
+    {
+     "title": "I Wanna Be Your Slave",
+     "artist": "Måneskin",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "Monroe",
+     "artist": "Mount Kimbie",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/monroe/6789645004?i=6789645698"
+    },
+    {
+     "title": "Across That Fine Line",
+     "artist": "Nation of Language",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/across-that-fine-line/1587337521?i=1587337527"
+    },
+    {
+     "title": "You Move Me",
+     "artist": "Neil Frances",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "Even Angels Ghost",
+     "artist": "Overmono, Kindora",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/even-angels-ghost/1894298100?i=1894298111"
+    },
+    {
+     "title": "Good Lies",
+     "artist": "Overmono",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/good-lies/1659656223?i=1659656229"
+    },
+    {
+     "title": "Illegal",
+     "artist": "PinkPantheress",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/illegal/1806614239?i=1806614466"
+    },
+    {
+     "title": "French Dip",
+     "artist": "Psychic Mirrors",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/french-dip/1759412029?i=1759412030"
+    },
+    {
+     "title": "Abu Simbel",
+     "artist": "Rampa & WhoMadeWho",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/abu-simbel/1834242091?i=1834242093"
+    },
+    {
+     "title": "Overpowered",
+     "artist": "Róisín Murphy",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/overpowered/693096033?i=693096204"
+    },
+    {
+     "title": "4eva",
+     "artist": "Shygirl, Empress Of & Kingdom",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/4eva/1725825321?i=1725825336"
+    },
+    {
+     "title": "INTERNET $TAR",
+     "artist": "Slayyyter",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "Interesting",
+     "artist": "The Dare",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/interesting/6837496123?i=6837497617"
+    },
+    {
+     "title": "Million Dollar Baby",
+     "artist": "Tommy Richman",
+     "year": 2024,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/million-dollar-baby/1749616853?i=1749616863"
+    },
+    {
+     "title": "Do It",
+     "artist": "Underscores",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "Mangetout (The Dare Remix)",
+     "artist": "Wet Leg, The Dare",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "What Love Is",
+     "artist": "Zimmer90",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/what-love-is/1742165154?i=1742165171"
+    },
+    {
+     "title": "Playa Rosa Theme",
+     "artist": "Alex Frankel",
+     "year": null,
+     "spotify": null
+    }
+   ]
+  },
+  {
+   "id": "symphony-fm",
+   "name": "Symphony FM",
+   "frequency": "",
+   "genre": "Clásica",
+   "hosts": [],
+   "description": "A classical music station featuring orchestral works and compositions from several historical periods, hosted by Yuja Wang.",
+   "note": "",
+   "accent": "#63E6A6",
+   "songs": [
+    {
+     "title": "Messiah, HWV 56: Pt. III: Aria. I know That my Redeemer liveth (Soprano)",
+     "artist": "George Frideric Handel",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "Symphony No. 5 in E Minor, Op. 64, TH 29: IV. Andante maestoso - Allegro vivace",
+     "artist": "Pyotr Ilyich Tchaikovsky",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "Symphony No. 7 in A Major, Op. 92: II. Allegretto",
+     "artist": "Ludwig van Beethoven",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "Sinfonia concertante for Violin and Viola in E-Flat Major, K. 364: II. Andante",
+     "artist": "Wolfgang Amadeus Mozart",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "Mass in B Minor, BWV 232: Sanctus",
+     "artist": "Johann Sebastian Bach",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "Symphony No. 3 in F Major, Op. 90: III. Poco allegretto (Goodbye Again)",
+     "artist": "Johannes Brahms",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "Nocturnes, L. 91: II. Fêtes",
+     "artist": "Claude Debussy",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "Sinfonietta, JW VI/18: V. Allegro",
+     "artist": "Leoš Janáček",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "Les préludes, S. 97",
+     "artist": "Franz Liszt",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "Concerto for Orchestra I. Intrada Allegro maestoso",
+     "artist": "Witold Lutosławski",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/concerto-for-orchestra-i-intrada-allegro-maestoso/1467952874?i=1467952880"
+    },
+    {
+     "title": "Symphony No. 6 in A Minor “Tragic”: I. Allegro energico, ma non troppo. Heftig, aber markig",
+     "artist": "Gustav Mahler",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "Piano Concerto No. 2 in G Minor, Op. 16: IV. Finale (Allegro tempestoso)",
+     "artist": "Sergei Prokofiev",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "La valse, M. 72",
+     "artist": "Maurice Ravel",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "Erlkönig, Op. 1, D. 328",
+     "artist": "Franz Schubert",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "Symphony No. 5 in D Minor, Op. 47: IV. Allegro non troppo",
+     "artist": "Dmitri Shostakovich",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "Symphony No. 5 in E-Flat Major Op. 82: III. Allegro molto",
+     "artist": "Jean Sibelius",
+     "year": null,
+     "spotify": null
+    }
+   ]
+  },
+  {
+   "id": "the-chamber-106-6",
+   "name": "The Chamber 106.6",
+   "frequency": "106.6",
+   "genre": "Metal",
+   "hosts": [],
+   "description": "Crushing metal has landed in Leonida. Jump in the pit with The Chamber 106.6's DJ Kerry and DJ Tom for classic metal from the 1980s and beyond.",
+   "note": "",
+   "accent": "#FF8A5C",
+   "songs": [
+    {
+     "title": "I Am The Law",
+     "artist": "Anthrax",
+     "year": 1987,
+     "spotify": "https://open.spotify.com/track/5DlKTTcN9LNisy6x4QuWzs",
+     "apple": "https://music.apple.com/us/album/i-am-the-law-live-in-dallas/1443800911?i=1443801197"
+    },
+    {
+     "title": "I",
+     "artist": "Black Sabbath",
+     "year": 1992,
+     "spotify": "https://open.spotify.com/track/3OuUBpO1YAUmRESoJuq3a6",
+     "apple": "https://music.apple.com/us/album/i/298103928?i=298104576"
+    },
+    {
+     "title": "We Rock",
+     "artist": "Dio",
+     "year": 1984,
+     "spotify": "https://open.spotify.com/track/6qxi41lmbH35MT29bqlL4k",
+     "apple": "https://music.apple.com/us/album/we-rock/1134745928?i=1134746185"
+    },
+    {
+     "title": "Bonded by Blood",
+     "artist": "Exodus",
+     "year": 1985,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/bonded-by-blood/1004701980?i=1004702049"
+    },
+    {
+     "title": "Hammerhead",
+     "artist": "Flotsam & Jetsam",
+     "year": 1986,
+     "spotify": "https://open.spotify.com/track/0FCvb6CiwfxdRqZOtgj5yt",
+     "apple": "https://music.apple.com/us/album/hammerhead/56821765?i=56821342"
+    },
+    {
+     "title": "The Trooper",
+     "artist": "Iron Maiden",
+     "year": 1983,
+     "spotify": "https://open.spotify.com/track/4OROzZUy6gOWN4UGQVaZMF",
+     "apple": "https://music.apple.com/us/album/the-trooper/1862239251?i=1862239892"
+    },
+    {
+     "title": "Freewheel Burning",
+     "artist": "Judas Priest",
+     "year": 1984,
+     "spotify": "https://open.spotify.com/track/6aQBzaeOIajIPGAMzqa23J",
+     "apple": "https://music.apple.com/us/album/freewheel-burning/207178131?i=207178146"
+    },
+    {
+     "title": "Blood and Thunder",
+     "artist": "Mastodon",
+     "year": 2004,
+     "spotify": "https://open.spotify.com/track/3jagGO7eHHuaD53ibehkux",
+     "apple": "https://music.apple.com/us/album/blood-and-thunder/65923490?i=65922935"
+    },
+    {
+     "title": "Symphony of Destruction",
+     "artist": "Megadeth",
+     "year": 1992,
+     "spotify": "https://open.spotify.com/track/51TG9W3y9qyO8BY5RXKgnZ",
+     "apple": "https://music.apple.com/us/album/symphony-of-destruction/725812243?i=725812418"
+    },
+    {
+     "title": "Master of Puppets",
+     "artist": "Metallica",
+     "year": 1986,
+     "spotify": "https://open.spotify.com/track/2MuWTIM3b0YEAskbeeFE1i",
+     "apple": "https://music.apple.com/us/album/master-of-puppets/1275819392?i=1275819878"
+    },
+    {
+     "title": "Seek & Destroy",
+     "artist": "Metallica",
+     "year": 1983,
+     "spotify": "https://open.spotify.com/track/28WmNsclKsrVmdv3tDmoYU",
+     "apple": "https://music.apple.com/us/album/seek-destroy/579146130?i=579146168"
+    },
+    {
+     "title": "Rotten to the Core",
+     "artist": "Overkill",
+     "year": 1985,
+     "spotify": "https://open.spotify.com/track/1Q9PriUQSxUiFJi6htXBBK",
+     "apple": "https://music.apple.com/us/album/rotten-to-the-core/932619714?i=932619730"
+    },
+    {
+     "title": "I'm Broken",
+     "artist": "Pantera",
+     "year": 1994,
+     "spotify": "https://open.spotify.com/track/2M5WTwqnkyz7bW6P1CiD6q",
+     "apple": "https://music.apple.com/us/album/im-broken/838351582?i=838351656"
+    },
+    {
+     "title": "Territory",
+     "artist": "Sepultura",
+     "year": 1993,
+     "spotify": "https://open.spotify.com/track/0QRxtcxL31dRAeiUUuENPu",
+     "apple": "https://music.apple.com/us/album/territory-remastered/1258934612?i=1258934897"
+    },
+    {
+     "title": "Raining Blood",
+     "artist": "Slayer",
+     "year": 1986,
+     "spotify": "https://open.spotify.com/track/4fiOTntQKr24p07FvQDHZE",
+     "apple": "https://music.apple.com/us/album/raining-blood/1733768895?i=1733769810"
+    },
+    {
+     "title": "Payback",
+     "artist": "Slayer",
+     "year": 2001,
+     "spotify": "https://open.spotify.com/track/7sDioHUVas4IbmHiFAskl8"
+    },
+    {
+     "title": "Sugar",
+     "artist": "System of a Down",
+     "year": 1998,
+     "spotify": "https://open.spotify.com/track/0kHXwmkGd6IlCNJH6cGmWw",
+     "apple": "https://music.apple.com/us/album/sugar-clean-version/158528551?i=158528586"
+    },
+    {
+     "title": "Over the Wall",
+     "artist": "Testament",
+     "year": 1987,
+     "spotify": "https://open.spotify.com/track/5xXeIlEiWIA8xnPa8BkJyj",
+     "apple": "https://music.apple.com/us/album/over-the-wall/1458859240?i=1458859407"
+    },
+    {
+     "title": "Sober",
+     "artist": "Tool",
+     "year": 1993,
+     "spotify": "https://open.spotify.com/track/6DyywdbmTzlmXBzG9ym7Rt"
+    },
+    {
+     "title": "Countess Bathory",
+     "artist": "Venom",
+     "year": 1982,
+     "spotify": "https://open.spotify.com/track/1j3Lw5dxD1SfsPECnURvyq",
+     "apple": "https://music.apple.com/us/album/countess-bathory/1436231855?i=1436231961"
+    },
+    {
+     "title": "Panorama",
+     "artist": "Voivod",
+     "year": 1991,
+     "spotify": "https://open.spotify.com/track/6N9OcHN6c6LPQfjlt3PJ1C",
+     "apple": "https://music.apple.com/us/album/panorama/1443754065?i=1443754247"
+    },
+    {
+     "title": "Mutual Death Warrant",
+     "artist": "Power Trip",
+     "year": 2026,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/mutual-death-warrant/6837496123?i=6837497984"
+    }
+   ]
+  },
+  {
+   "id": "the-sniper-of-la-perle",
+   "name": "The Sniper of La Perle",
+   "frequency": "",
+   "genre": "",
+   "hosts": [],
+   "description": "'The Sniper of La Perle' is an additional music station credited by Rockstar Games, hosted by Kodak Black and presented by Michaël Brun. It features Haitian and Caribbean music.",
+   "note": "",
+   "accent": "#F3D45F",
+   "songs": [
+    {
+     "title": "Kanpe devan'm",
+     "artist": "5Lan featuring TonyMix",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "Chokola",
+     "artist": "Alan Cavé",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/chokola/400432892?i=400432894"
+    },
+    {
+     "title": "Ou Paka Gangster",
+     "artist": "Barikad Crew",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "Fresh From Head To Toe",
+     "artist": "Billy Blue",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "Imma Zoe",
+     "artist": "Black Dada",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "Are You Ready",
+     "artist": "Carimi",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/are-you-ready-mark-g-remix/1881648324?i=1881648331"
+    },
+    {
+     "title": "Ou Pa Ka Fè Sa",
+     "artist": "DJ Platinum D",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "La Familia",
+     "artist": "Djakout",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/la-familia/1692189774?i=1692189779"
+    },
+    {
+     "title": "Flanm",
+     "artist": "Emeline Michel",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/flanm/521247340?i=521247712"
+    },
+    {
+     "title": "Haiti",
+     "artist": "John Wicks feat. Kodak Black",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "Koul Non",
+     "artist": "King Posse",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/koul-non/1491650051?i=1491650057"
+    },
+    {
+     "title": "300 Blackout",
+     "artist": "Kodak Black",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/300-blackout/1653697678?i=1653697683"
+    },
+    {
+     "title": "Haitian Scarface",
+     "artist": "Kodak Black",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "Jessica",
+     "artist": "Michaël Brun with J Balvin, SAINt JHN, Charly Black & J Perry",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/jessica-feat-charly-black/1696202217?i=1696202225"
+    },
+    {
+     "title": "6:45",
+     "artist": "Naïka",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "Magic Gouyad #6",
+     "artist": "R Dydy",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/magic-gouyad-6/1642033887?i=1642033890"
+    },
+    {
+     "title": "Tranble",
+     "artist": "Roody Roodboy",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/tranble/1301559771?i=1301560061"
+    },
+    {
+     "title": "Ville",
+     "artist": "Top Adlerman",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/ville-feat-misty-jean/1719034286?i=1719034296"
+    },
+    {
+     "title": "Tu Me Touches",
+     "artist": "T-Vice",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/tu-me-touches/503657492?i=503657508"
+    },
+    {
+     "title": "Guantanamera",
+     "artist": "Wyclef Jean feat. Ms. Lauryn Hill, Celia Cruz & Jeni Fujita",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/guantanamera-feat-lauryn-hill-celia-cruz-jeni-fujita/267126158?i=267126208"
+    },
+    {
+     "title": "Child Support",
+     "artist": "Zenglen",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/child-support/1668905637?i=1668905639"
+    },
+    {
+     "title": "Tèt Kale Bobis",
+     "artist": "Kodak Black & Michaël Brun",
+     "year": null,
+     "spotify": null
+    }
+   ]
+  },
+  {
+   "id": "the-vault-radio",
+   "name": "The Vault Radio",
+   "frequency": "",
+   "genre": "Dance · Desbloqueable",
+   "hosts": [],
+   "description": "'The Vault Radio' is a secret radio station featuring dance, electronic music, and rave mixes played inside The Vault Nightclub in Vice City. It does not appear among the initial radio selections.",
+   "note": "unlockable",
+   "accent": "#6FE0C8",
+   "songs": [
+    {
+     "title": "XTC",
+     "artist": "DJ Koze",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/xtc/1783623466?i=1783623568"
+    },
+    {
+     "title": "Nothing But You (DJ Tennis Remix)",
+     "artist": "Bob Moses",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/nothing-but-you-dj-tennis-remix/1473076485?i=1473076488"
+    },
+    {
+     "title": "Simulation (Mano Le Tough Remix)",
+     "artist": "Róisín Murphy",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/simulation-mano-le-tough-remix/1677826999?i=1677829139"
+    },
+    {
+     "title": "Chimicalissimo",
+     "artist": "Argoman",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/chimicalissimo/1674245936?i=1674246382"
+    },
+    {
+     "title": "Trippy Yeah",
+     "artist": "Jimi Jules & Black Coffee",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/trippy-yeah/1819965613?i=1819965614"
+    },
+    {
+     "title": "My Computer",
+     "artist": "Adana Twins feat. Glowal",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/my-computer/1729649936?i=1729649942"
+    },
+    {
+     "title": "Lost Without You",
+     "artist": "Skream & FLETCH",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/lost-without-you-extended-mix/1827026267?i=1827026271"
+    },
+    {
+     "title": "Rej",
+     "artist": "Âme",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/rej-%C3%A2me-live-version/834941951?i=834942012"
+    },
+    {
+     "title": "Personal",
+     "artist": "Jaden Thompson & Rampa feat. Nafe Smallz",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "PICK UP THE PHONE",
+     "artist": "PAWSA feat. Nate Dogg",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "Armed",
+     "artist": "Pryda",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/armed/345290308?i=345290390"
+    },
+    {
+     "title": "Return To Bhibo",
+     "artist": "Barry Can't Swim",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/return-to-bhibo/6768690226?i=6768690230"
+    },
+    {
+     "title": "E Samba 2018",
+     "artist": "Junior Jack, Tube & Berger",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/e-samba-2018/1405556966?i=1405556979"
+    },
+    {
+     "title": "Brighter Days (Marco Lys Remix)",
+     "artist": "Cajmere feat. Dajae",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/brighter-days-marco-lys-remix/1650248630?i=1650248631"
+    },
+    {
+     "title": "Damn",
+     "artist": "Dom Dolla & Solomun",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "Different Side",
+     "artist": "Michael Bibi & KinAhau feat. Audio Bullys",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/different-side-feat-audio-bullys/1673189255?i=1673189256"
+    },
+    {
+     "title": "Don't Play Around",
+     "artist": "KETTAMA & CHRIS STASSY",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/dont-play-around/6837496123?i=6837497978"
+    },
+    {
+     "title": "Yumi",
+     "artist": "Notre Dame",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/yumi/1665834826?i=1665834831"
+    },
+    {
+     "title": "Ye Ye",
+     "artist": "Daphni",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/ye-ye/1282790105?i=1282791040"
+    },
+    {
+     "title": "Baby (Tony Romera Remix)",
+     "artist": "Four Tet",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/baby-tony-romera-remix/1889798796?i=1889799150"
+    },
+    {
+     "title": "Simple Times",
+     "artist": "SG Lewis & DJ Seinfeld",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/simple-times/1738511221?i=1738511222"
+    },
+    {
+     "title": "Bismuth",
+     "artist": "Renato Cohen",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/bismuth/1520651986?i=1520651988"
+    },
+    {
+     "title": "West Coast (Solomun Remix)",
+     "artist": "Lana Del Rey",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/west-coast-solomun-remix/1729652849?i=1729653365"
+    },
+    {
+     "title": "FTH (Pawsa Remix)",
+     "artist": "Real Dimez",
+     "year": null,
+     "spotify": null
+    }
+   ]
+  },
+  {
+   "id": "the-wipe",
+   "name": "The Wipe",
+   "frequency": "",
+   "genre": "Talk · Sátira",
+   "hosts": [
+    "Anitta"
+   ],
+   "description": "'The Wipe' is a talk station focusing on satire and the unusual events and characters of Leonida. Its programming includes El Otro Lado, Ask Dr. Nita, and She Got Assets.",
+   "note": "",
+   "accent": "#C98CFF",
+   "songs": []
+  },
+  {
+   "id": "v-rock",
+   "name": "V-Rock",
+   "frequency": "",
+   "genre": "Rock",
+   "hosts": [],
+   "description": "The returning Vice City rock station, now featuring a broad selection of classic rock and hard rock. Its vulture mascot and branding also appear on Jason's clothing.",
+   "note": "",
+   "accent": "#FF7FA8",
+   "songs": [
+    {
+     "title": "Rockin' Into The Night",
+     "artist": "38 Special",
+     "year": 1979,
+     "spotify": "https://open.spotify.com/track/1rWqtf1rOYiPEb9puv2bYd",
+     "apple": "https://music.apple.com/us/album/rockin-into-the-night/1443384762?i=1443384764"
+    },
+    {
+     "title": "Sin City",
+     "artist": "AC/DC",
+     "year": 1978,
+     "spotify": "https://open.spotify.com/track/3UQQ7g6J8fiMB7oldQzBoq",
+     "apple": "https://music.apple.com/us/album/sin-city/574050248?i=574050391"
+    },
+    {
+     "title": "Livin' On The Edge",
+     "artist": "Aerosmith",
+     "year": 1993,
+     "spotify": "https://open.spotify.com/track/3Kv9uUVgt598jYAK79fPQb",
+     "apple": "https://music.apple.com/us/album/livin-on-the-edge/1440913261?i=1440914022"
+    },
+    {
+     "title": "Roller",
+     "artist": "April Wine",
+     "year": 1978,
+     "spotify": "https://open.spotify.com/track/3IgYJtwRkejW7mhAINRaay",
+     "apple": "https://music.apple.com/us/album/roller-2002-remastered/1673109851?i=1673110570"
+    },
+    {
+     "title": "Rock 'n' Roll Fantasy",
+     "artist": "Bad Company",
+     "year": 1979,
+     "spotify": "https://open.spotify.com/track/71GMl3Q7U4JnrTqI9kfcoN",
+     "apple": "https://music.apple.com/us/album/rock-n-roll-fantasy/318619641?i=318619655"
+    },
+    {
+     "title": "Everybody Wants You",
+     "artist": "Billy Squier",
+     "year": 1982,
+     "spotify": "https://open.spotify.com/track/1BUTAQyk9QsdvRDghyMTC9",
+     "apple": "https://music.apple.com/us/album/everybody-wants-you/1443157440?i=1443157443"
+    },
+    {
+     "title": "Shooting Shark",
+     "artist": "Blue Öyster Cult",
+     "year": 1983,
+     "spotify": "https://open.spotify.com/track/2hIPXxsglGrqR1O7j4zt9H",
+     "apple": "https://music.apple.com/us/album/shooting-shark/516620010?i=516620717"
+    },
+    {
+     "title": "Shakedown",
+     "artist": "Bob Seger",
+     "year": 1987,
+     "spotify": "https://open.spotify.com/track/303oOLP2Jf6M4rke52qItM",
+     "apple": "https://music.apple.com/us/album/shakedown-remastered/1443301666?i=1443302671"
+    },
+    {
+     "title": "Runaway",
+     "artist": "Bon Jovi",
+     "year": 1984,
+     "spotify": "https://open.spotify.com/track/0X1sqQ652p1sceKM2nJlIJ",
+     "apple": "https://music.apple.com/us/album/runaway/1440814436?i=1440814439"
+    },
+    {
+     "title": "Ride Like The Wind",
+     "artist": "Christopher Cross",
+     "year": 1979,
+     "spotify": "https://open.spotify.com/track/7gUMShP1l20tC0xf17Zplk",
+     "apple": "https://music.apple.com/us/album/ride-like-the-wind/1862733668?i=1862733677"
+    },
+    {
+     "title": "Rock the Casbah",
+     "artist": "The Clash",
+     "year": 1982,
+     "spotify": "https://open.spotify.com/track/56KqaFSGTb7ifpt16t5Y1N",
+     "apple": "https://music.apple.com/us/album/rock-the-casbah/685585931?i=685585942"
+    },
+    {
+     "title": "Just Like Paradise",
+     "artist": "David Lee Roth",
+     "year": 1987,
+     "spotify": "https://open.spotify.com/track/5ZY7Gug850kv4heJcWZGHM",
+     "apple": "https://music.apple.com/us/album/just-like-paradise/302138810?i=302138818"
+    },
+    {
+     "title": "Pour Some Sugar On Me",
+     "artist": "Def Leppard",
+     "year": 1987,
+     "spotify": "https://open.spotify.com/track/1aZLIbKEdsyqxyD6iNcrbA",
+     "apple": "https://music.apple.com/us/album/pour-some-sugar-on-me/1438626342?i=1438626355"
+    },
+    {
+     "title": "Comin' Under Fire",
+     "artist": "Def Leppard",
+     "year": 1983,
+     "spotify": "https://open.spotify.com/track/3uzikCqfwbnNJ8JhtcJTVP",
+     "apple": "https://music.apple.com/us/album/comin-under-fire/1440902935?i=1440902948"
+    },
+    {
+     "title": "Money For Nothing",
+     "artist": "Dire Straits",
+     "year": 1985,
+     "spotify": "https://open.spotify.com/track/4nFNJmjfgBF7jwv2oBC45b",
+     "apple": "https://music.apple.com/us/album/money-for-nothing/89345591?i=89343444"
+    },
+    {
+     "title": "Takin' It To The Streets",
+     "artist": "The Doobie Brothers",
+     "year": 1976,
+     "spotify": "https://open.spotify.com/track/1WDgdCoNSN0fosaTaLGXKU",
+     "apple": "https://music.apple.com/us/album/takin-it-to-the-streets-2016-remastered/1111372373?i=1111372586"
+    },
+    {
+     "title": "Take Me Home Tonight",
+     "artist": "Eddie Money",
+     "year": 1986,
+     "spotify": "https://open.spotify.com/track/7b4yGtR0rujvLi5EBfKKJ2",
+     "apple": "https://music.apple.com/us/album/take-me-home-tonight/192666803?i=192666899"
+    },
+    {
+     "title": "Cocaine",
+     "artist": "Eric Clapton",
+     "year": 1977,
+     "spotify": "https://open.spotify.com/track/2udGjDmpK1dH9VGyw7nrei",
+     "apple": "https://music.apple.com/us/album/cocaine/1440782705?i=1440782710"
+    },
+    {
+     "title": "Bad Love",
+     "artist": "Eric Clapton",
+     "year": 1989,
+     "spotify": "https://open.spotify.com/track/185dxn5sEgOnBX5iwCDHkp",
+     "apple": "https://music.apple.com/us/album/bad-love/1646560232?i=1646560491"
+    },
+    {
+     "title": "Big Love",
+     "artist": "Fleetwood Mac",
+     "year": 1987,
+     "spotify": "https://open.spotify.com/track/0hOA8SoraNo2ZP1amtVYnY",
+     "apple": "https://music.apple.com/us/album/big-love/202271826?i=202272743"
+    },
+    {
+     "title": "Urgent",
+     "artist": "Foreigner",
+     "year": 1981,
+     "spotify": "https://open.spotify.com/track/08onVqQ8YicJ98Ycm1qoLf",
+     "apple": "https://music.apple.com/us/album/urgent/285143156?i=285143177"
+    },
+    {
+     "title": "Right Down the Line",
+     "artist": "Gerry Rafferty",
+     "year": null,
+     "spotify": "https://open.spotify.com/track/2Xb6wJYGi0QXwURw5WWvI5",
+     "apple": "https://music.apple.com/us/album/right-down-the-line/693606397?i=693606499"
+    },
+    {
+     "title": "Black Cars",
+     "artist": "Gino Vannelli",
+     "year": null,
+     "spotify": "https://open.spotify.com/track/7Df7pMOhjAJ5xiWgq8eHJz",
+     "apple": "https://music.apple.com/us/album/black-cars/1038926115?i=1038926117"
+    },
+    {
+     "title": "Jump Into the Fire",
+     "artist": "Harry Nilsson",
+     "year": null,
+     "spotify": "https://open.spotify.com/track/3hgHrfMdtnLtH54HYTdNHF",
+     "apple": "https://music.apple.com/us/album/jump-into-the-fire/304815001?i=304815019"
+    },
+    {
+     "title": "I Want a New Drug",
+     "artist": "Huey Lewis & The News",
+     "year": null,
+     "spotify": "https://open.spotify.com/track/2yWf3FJLwB0ytfOpgqLoa2",
+     "apple": "https://music.apple.com/us/album/i-want-a-new-drug-single-edit/725784933?i=725785113"
+    },
+    {
+     "title": "Had a Dad",
+     "artist": "Jane's Addiction",
+     "year": 1988,
+     "spotify": "https://open.spotify.com/track/3HVS01vPf5NMGS7ACAyEXv",
+     "apple": "https://music.apple.com/us/album/had-a-dad/1018518208?i=1018518211"
+    },
+    {
+     "title": "Thunder Island",
+     "artist": "Jay Ferguson",
+     "year": 1977,
+     "spotify": "https://open.spotify.com/track/3FkQN4NyCFlfn7fWzBkWCj",
+     "apple": "https://music.apple.com/us/album/thunder-island/78975845?i=78975792"
+    },
+    {
+     "title": "Find Your Way Back",
+     "artist": "Jefferson Starship",
+     "year": 1981,
+     "spotify": "https://open.spotify.com/track/1QlHzR2Nl7gJlb4n3OrtrV",
+     "apple": "https://music.apple.com/us/album/find-your-way-back/1446294999?i=1446295333"
+    },
+    {
+     "title": "Jack and Diane",
+     "artist": "John Mellencamp",
+     "year": 1982,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/jack-and-diane/1440918606?i=1440918946"
+    },
+    {
+     "title": "Naughty Naughty",
+     "artist": "John Parr",
+     "year": 1984,
+     "spotify": "https://open.spotify.com/track/7dyaRJOrRnfobcE5jxZgZz",
+     "apple": "https://music.apple.com/us/album/naughty-naughty-re-recorded/583582459?i=583582489"
+    },
+    {
+     "title": "Heart to Heart",
+     "artist": "Kenny Loggins",
+     "year": 1982,
+     "spotify": "https://open.spotify.com/track/2KaA0Tgl3RmQLzcvLEtzLH",
+     "apple": "https://music.apple.com/us/album/heart-to-heart/185797482?i=185798016"
+    },
+    {
+     "title": "Living On A Thin Line",
+     "artist": "The Kinks",
+     "year": 1984,
+     "spotify": "https://open.spotify.com/track/6Z9HVIvwKMEB1UoECSySdv",
+     "apple": "https://music.apple.com/us/album/living-on-a-thin-line/1530151556?i=1530151930"
+    },
+    {
+     "title": "Sure Know Something",
+     "artist": "Kiss",
+     "year": 1979,
+     "spotify": "https://open.spotify.com/track/1HBDWCrQVjrALiOA5rILnE",
+     "apple": "https://music.apple.com/us/album/sure-know-something/1440861209?i=1440861744"
+    },
+    {
+     "title": "Go Insane",
+     "artist": "Lindsey Buckingham",
+     "year": 1984,
+     "spotify": "https://open.spotify.com/track/143sH2crBs4fUQyRr8pjUm",
+     "apple": "https://music.apple.com/us/album/go-insane/357962619?i=357962672"
+    },
+    {
+     "title": "Lovin' Every Minute of It",
+     "artist": "Loverboy",
+     "year": 1985,
+     "spotify": "https://open.spotify.com/track/1N9KAY1WftAtnTqbf8ULKZ",
+     "apple": "https://music.apple.com/us/album/lovin-every-minute-of-it/1712893959?i=1712893961"
+    },
+    {
+     "title": "I Gotta Try",
+     "artist": "Michael McDonald",
+     "year": 1982,
+     "spotify": "https://open.spotify.com/track/0qnfAVtzFPY0pOGYpTkZeY",
+     "apple": "https://music.apple.com/us/album/i-gotta-try/358567891?i=358568484"
+    },
+    {
+     "title": "Dr. Feelgood",
+     "artist": "Mötley Crüe",
+     "year": 1989,
+     "spotify": "https://open.spotify.com/track/5dnwXK73BDZ0H2L06ZrKcE",
+     "apple": "https://music.apple.com/us/album/dr-feelgood/1764395673?i=1764395683"
+    },
+    {
+     "title": "Let My Love Open the Door",
+     "artist": "Pete Townshend",
+     "year": 1980,
+     "spotify": "https://open.spotify.com/track/0otlwsD3mSogk7VJCTp6Kg",
+     "apple": "https://music.apple.com/us/album/let-my-love-open-the-door/1440846910?i=1440847320"
+    },
+    {
+     "title": "Nothin' but a Good Time",
+     "artist": "Poison",
+     "year": 1988,
+     "spotify": "https://open.spotify.com/track/6G09JrmKdDAe29eSH8ZQmR",
+     "apple": "https://music.apple.com/us/album/nothin-but-a-good-time/716552394?i=716552513"
+    },
+    {
+     "title": "Driven To Tears",
+     "artist": "The Police",
+     "year": 1980,
+     "spotify": "https://open.spotify.com/track/3ixzqclumr9K5ZY8xcdo0O",
+     "apple": "https://music.apple.com/us/album/driven-to-tears-remastered-2003/1440637146?i=1440637318"
+    },
+    {
+     "title": "Hammer To Fall",
+     "artist": "Queen",
+     "year": 1984,
+     "spotify": "https://open.spotify.com/track/3AZaE5x8t7z0VkWubkjKRF",
+     "apple": "https://music.apple.com/us/album/hammer-to-fall/6781080933?i=6781081124"
+    },
+    {
+     "title": "Lunatic Fringe",
+     "artist": "Red Rider",
+     "year": 1981,
+     "spotify": "https://open.spotify.com/track/4rAnSE0E0f33unxXsQa5Fr",
+     "apple": "https://music.apple.com/us/album/lunatic-fringe/725282157?i=725282420"
+    },
+    {
+     "title": "Take It on the Run",
+     "artist": "REO Speedwagon",
+     "year": 1980,
+     "spotify": "https://open.spotify.com/track/5gys5nzVQIYhgHIfiOJYva",
+     "apple": "https://music.apple.com/us/album/take-it-on-the-run/447759207?i=447759255"
+    },
+    {
+     "title": "Emotional Rescue",
+     "artist": "The Rolling Stones",
+     "year": 1980,
+     "spotify": "https://open.spotify.com/track/5IATbFZds3cbOx8YxuMuko",
+     "apple": "https://music.apple.com/us/album/emotional-rescue/1440811505?i=1440812173"
+    },
+    {
+     "title": "Talking In Your Sleep",
+     "artist": "The Romantics",
+     "year": 1983,
+     "spotify": "https://open.spotify.com/track/7fRvtXvJMpGfTLdF0M09a1",
+     "apple": "https://music.apple.com/us/album/talking-in-your-sleep-2023-remaster/784423218?i=784423236"
+    },
+    {
+     "title": "Love the One You're With",
+     "artist": "Stephen Stills",
+     "year": 1970,
+     "spotify": "https://open.spotify.com/track/3NNkJwiHucP5QyUEAIMXra",
+     "apple": "https://music.apple.com/us/album/love-the-one-youre-with/121052547?i=121052337"
+    },
+    {
+     "title": "Stranger",
+     "artist": "Stephen Stills",
+     "year": 1984,
+     "spotify": "https://open.spotify.com/track/5QTCFAfdrJgaabRzWwNEHa",
+     "apple": "https://music.apple.com/us/album/stranger/54813856?i=54813862"
+    },
+    {
+     "title": "Rooms on Fire",
+     "artist": "Stevie Nicks",
+     "year": 1989,
+     "spotify": "https://open.spotify.com/track/0QVlQTzp10Tj4Xql9ZRJzo",
+     "apple": "https://music.apple.com/us/album/rooms-on-fire/218343082?i=218343084"
+    },
+    {
+     "title": "Take The Money And Run",
+     "artist": "The Steve Miller Band",
+     "year": 1976,
+     "spotify": "https://open.spotify.com/track/1ZhrREyOOeFV6TxDOyiPwu"
+    },
+    {
+     "title": "Freedom Overspill",
+     "artist": "Steve Winwood",
+     "year": 1986,
+     "spotify": "https://open.spotify.com/track/7b4L2Hx4gAnpZvhhTBpJ9g",
+     "apple": "https://music.apple.com/us/album/freedom-overspill-live/1247764420?i=1247765908"
+    },
+    {
+     "title": "Too Much Time On My Hands",
+     "artist": "Styx",
+     "year": 1981,
+     "spotify": "https://open.spotify.com/track/4hWUOIDHda9XOb1zDchftP",
+     "apple": "https://music.apple.com/us/album/too-much-time-on-my-hands/1440911565?i=1440911571"
+    },
+    {
+     "title": "Better Be Good to Me",
+     "artist": "Tina Turner",
+     "year": 1984,
+     "spotify": "https://open.spotify.com/track/4N5HyZ1PlXuP6sryIa4hOQ",
+     "apple": "https://music.apple.com/us/album/better-be-good-to-me-2015-remaster/995303638?i=995304386"
+    },
+    {
+     "title": "I Saw The Light",
+     "artist": "Todd Rundgren",
+     "year": 1972,
+     "spotify": "https://open.spotify.com/track/0lHZqyRXGbuXGF7Ba4aH4M",
+     "apple": "https://music.apple.com/us/album/i-saw-the-light/1084074389?i=1084074830"
+    },
+    {
+     "title": "Love Is A Long Road",
+     "artist": "Tom Petty",
+     "year": 1989,
+     "spotify": "https://open.spotify.com/track/4PJEK76V3A1S0XzZJuTWh7",
+     "apple": "https://music.apple.com/us/album/love-is-a-long-road/1440825367?i=1440825626"
+    },
+    {
+     "title": "You Wreck Me",
+     "artist": "Tom Petty",
+     "year": 1994,
+     "spotify": "https://open.spotify.com/track/0YkbYk24ODhuewb79zZZzM",
+     "apple": "https://music.apple.com/us/album/you-wreck-me/892018539?i=892018550"
+    },
+    {
+     "title": "Dogs On The Run",
+     "artist": "Tom Petty",
+     "year": 1985,
+     "spotify": "https://open.spotify.com/track/4YbxoqB6YZlwOTRLC4ml7q",
+     "apple": "https://music.apple.com/us/album/dogs-on-the-run/1442440438?i=1442440980"
+    },
+    {
+     "title": "The Wild One, Forever",
+     "artist": "Tom Petty",
+     "year": 1976,
+     "spotify": "https://open.spotify.com/track/6I3JRwx6jAF3wozmy6uiYW",
+     "apple": "https://music.apple.com/us/album/the-wild-one-forever-2026-mix/6820212259?i=6820212309"
+    },
+    {
+     "title": "Wildflowers",
+     "artist": "Tom Petty",
+     "year": 1994,
+     "spotify": "https://open.spotify.com/track/2Pr1nZpt8A8WP7QYpyq6L3",
+     "apple": "https://music.apple.com/us/album/wildflowers/892018539?i=892018546"
+    },
+    {
+     "title": "Between Two Worlds",
+     "artist": "Tom Petty",
+     "year": 1982,
+     "spotify": "https://open.spotify.com/track/7aSOQIbnPKwq3PE4oYKyjZ",
+     "apple": "https://music.apple.com/us/album/between-two-worlds/1440855693?i=1440855961"
+    },
+    {
+     "title": "The Damage You've Done",
+     "artist": "Tom Petty",
+     "year": 1987,
+     "spotify": "https://open.spotify.com/track/464jBiFTutMrDujJTKYGiY",
+     "apple": "https://music.apple.com/us/album/the-damage-youve-done-alternate-version-1987/1410131998?i=1410132296"
+    },
+    {
+     "title": "Georgy Porgy",
+     "artist": "Toto",
+     "year": 1978,
+     "spotify": "https://open.spotify.com/track/5jQcJ2st6yHWhUBjoDoZPH",
+     "apple": "https://music.apple.com/us/album/georgy-porgy/198226130?i=198226436"
+    },
+    {
+     "title": "The Unforgettable Fire",
+     "artist": "U2",
+     "year": 1984,
+     "spotify": "https://open.spotify.com/track/57XSd8FypQPCxJewkFXIwU",
+     "apple": "https://music.apple.com/us/album/the-unforgettable-fire/1440731607?i=1440732117"
+    },
+    {
+     "title": "Panama",
+     "artist": "Van Halen",
+     "year": 1984,
+     "spotify": "https://open.spotify.com/track/05RgAMGypEvqhNs5hPCbMS",
+     "apple": "https://music.apple.com/us/album/panama/976831013?i=976832496"
+    },
+    {
+     "title": "Cherry Pie",
+     "artist": "Warrant",
+     "year": 1990,
+     "spotify": "https://open.spotify.com/track/7LygtNjQ65PSdzVjUnHXQb",
+     "apple": "https://music.apple.com/us/album/cherry-pie/198468184?i=198468208"
+    },
+    {
+     "title": "Lawyers, Guns And Money",
+     "artist": "Warren Zevon",
+     "year": 1978,
+     "spotify": "https://open.spotify.com/track/64dHj8ZxaI2Wj0brEehVMN",
+     "apple": "https://music.apple.com/us/album/lawyers-guns-and-money/1048475674?i=1048476316"
+    },
+    {
+     "title": "Give Me All Your Love",
+     "artist": "Whitesnake",
+     "year": 1987,
+     "spotify": "https://open.spotify.com/track/2oBLGA6eRLM9SXHZAknnvR",
+     "apple": "https://music.apple.com/us/album/give-me-all-your-love-single-version/1862662672?i=1862663197"
+    },
+    {
+     "title": "Bargain",
+     "artist": "The Who",
+     "year": 1971,
+     "spotify": "https://open.spotify.com/track/4Vtl42qX97JBj68TKifBHR",
+     "apple": "https://music.apple.com/us/album/bargain/1440850317?i=1440850323"
+    },
+    {
+     "title": "Rhythm of Love",
+     "artist": "Yes",
+     "year": 1987,
+     "spotify": "https://open.spotify.com/track/7Jgz1CgFVfBmtYJ1lc0UXa",
+     "apple": "https://music.apple.com/us/album/rhythm-of-love/1048472307?i=1048473411"
+    },
+    {
+     "title": "Got Me Under Pressure",
+     "artist": "ZZ Top",
+     "year": 1983,
+     "spotify": "https://open.spotify.com/track/7lz578ML4nWrDL3uOLyQoR",
+     "apple": "https://music.apple.com/us/album/got-me-under-pressure/1728071480?i=1728071579"
+    },
+    {
+     "title": "Get It Right Next Time",
+     "artist": "Gerry Rafferty",
+     "year": 1979,
+     "spotify": "https://open.spotify.com/track/0o3HJmXnQPRX4jymsmk3sS",
+     "apple": "https://music.apple.com/us/album/get-it-right-next-time/693605213?i=693605521"
+    }
+   ]
+  },
+  {
+   "id": "vcrr",
+   "name": "VCRR",
+   "frequency": "",
+   "genre": "Rap",
+   "hosts": [],
+   "description": "A contemporary rap station featuring chart hits and new hip-hop releases, hosted by JT and DJ Stevie J, with music curated with help from KrishnaMusic.",
+   "note": "",
+   "accent": "#FF6E7F",
+   "songs": [
+    {
+     "title": "Cookin",
+     "artist": "21 Savage",
+     "year": 2026,
+     "spotify": null
+    },
+    {
+     "title": "Left Wrist",
+     "artist": "Bossman Dlow",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "Don't Chart",
+     "artist": "Cardi B",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "Rock N Roll",
+     "artist": "Central Cee",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "Players",
+     "artist": "Coi Leray",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/players/1663560517?i=1663560769"
+    },
+    {
+     "title": "FLA Flow",
+     "artist": "Denzel Curry feat. 454",
+     "year": 2026,
+     "spotify": null
+    },
+    {
+     "title": "Bills Paid",
+     "artist": "DJ Khaled feat. Latto & City Girls",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/bills-paid-feat-latto-city-girls/1641779917?i=1641780234"
+    },
+    {
+     "title": "Wassup Gway",
+     "artist": "Famous Sally & YB",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/wassup-gway/1709554418?i=1709554425"
+    },
+    {
+     "title": "Unforgettable",
+     "artist": "French Montana & Swae Lee",
+     "year": 2017,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/unforgettable-feat-swae-lee/1254531365?i=1254531914"
+    },
+    {
+     "title": "Xanny Family",
+     "artist": "Future",
+     "year": 2016,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/xanny-family/1081197061?i=1081197284"
+    },
+    {
+     "title": "RCKSTRL!VING",
+     "artist": "HXG feat. Tana & Quavo",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "All There",
+     "artist": "Jeezy feat. Bankroll Fresh",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/all-there-feat-bankroll-fresh/1443265594?i=1443265916"
+    },
+    {
+     "title": "GMA",
+     "artist": "JT",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "Let's Rock",
+     "artist": "Kodak Black & Don Toliver",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "I Just Came To Pop It",
+     "artist": "Offset",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "AHH YEA",
+     "artist": "Playboi Carti",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "Got Dat",
+     "artist": "Pooh Shiesty",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "Pound Town",
+     "artist": "Sexyy Red, Tay Keith",
+     "year": 2023,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/pound-town-radio-edit/1685588378?i=1685588380"
+    },
+    {
+     "title": "Cashout",
+     "artist": "SoFaygo",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "IKYFL",
+     "artist": "Tee Grizzley",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "RHYNO",
+     "artist": "Travis Scott",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "Don Da Da",
+     "artist": "Young Nudy",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "Wakin Up Flex",
+     "artist": "Young Thug",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "That's It",
+     "artist": "Yung Lean feat. Future & Metro Boomin",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "50 Bands",
+     "artist": "Latto feat. Flo Milli",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "COUNT UP",
+     "artist": "Gunna",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "No Sucker",
+     "artist": "Lil Baby & Moneybagg Yo",
+     "year": 2020,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/no-sucker/1499567361?i=1499567782"
+    },
+    {
+     "title": "O Let’s Do It",
+     "artist": "Waka Flocka Flame feat. Cap",
+     "year": 2010,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/o-lets-do-it-feat-cap/393797951?i=393797961"
+    },
+    {
+     "title": "712PM",
+     "artist": "Future",
+     "year": 2022,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/712pm-instrumental/1623692685?i=1623692695"
+    },
+    {
+     "title": "Go Go Go",
+     "artist": "BunnaB",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "Nonstop",
+     "artist": "Drake",
+     "year": 2018,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/nonstop/1406109769?i=1406109777"
+    },
+    {
+     "title": "Rake It Up",
+     "artist": "Yo Gotti & Nicki Minaj",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/rake-it-up-feat-nicki-minaj/1294855072?i=1294855076"
+    },
+    {
+     "title": "Maybach Coupe",
+     "artist": "Key Glock & Tay Keith",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "ROBOCOP",
+     "artist": "Moreno ITF",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "7.62 God",
+     "artist": "Pooh Shiesty",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "Back On The Road",
+     "artist": "Icewear Vezzo",
+     "year": 2023,
+     "spotify": null
+    },
+    {
+     "title": "Blow a Check",
+     "artist": "Zoey Dollaz",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "Outside",
+     "artist": "Cardi B",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/outside/1821561151?i=1821561152"
+    },
+    {
+     "title": "WHATCHU KNOW ABOUT ME",
+     "artist": "GloRilla & Sexyy Red",
+     "year": 2024,
+     "spotify": null
+    },
+    {
+     "title": "Wipe Me Down (Remix)",
+     "artist": "Boosie Badazz feat. Foxx, Webbie & Lil Boosie",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/wipe-me-down-feat-foxx/1722389954?i=1722390017"
+    },
+    {
+     "title": "Shake Dat Ass (Twerk Song)",
+     "artist": "BossMan Dlow",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/shake-dat-ass-twerk-song-feat-glorilla/1786648454?i=1786649973"
+    },
+    {
+     "title": "Boss Shit",
+     "artist": "RushDee, ATL Jacob & Big Boss Vette",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "Bitcoin",
+     "artist": "Liro 100",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "Soak City",
+     "artist": "310babii feat. Mustard, Tyga, Blueface, OhGeesy & BlueBucksClan",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/soak-city-feat-ohgeesy-bluebucksclan/1706008594?i=1706008595"
+    },
+    {
+     "title": "One of Them Ones",
+     "artist": "Mustard feat. Quavo & Rob49",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/one-of-them-ones-feat-quavo-rob49/1758817222?i=1758817237"
+    },
+    {
+     "title": "My Neck, My Back (Lick It)",
+     "artist": "Khia",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/my-neck-my-back-lick-it/389612078?i=389612179"
+    },
+    {
+     "title": "Dance With Me",
+     "artist": "A Boogie Wit da Hoodie feat. elkan",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "Cyclone",
+     "artist": "Baby Bash feat. T-Pain",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/cyclone-feat-t-pain/260139756?i=260139761"
+    },
+    {
+     "title": "B.M.F. (Blowin’ Money Fast)",
+     "artist": "Rick Ross feat. Styles P",
+     "year": 2010,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/b-m-f-blowin-money-fast-feat-styles-p/1445837465?i=1445837670"
+    },
+    {
+     "title": "Type Shit",
+     "artist": "Future, Metro Boomin, Travis Scott & Playboi Carti",
+     "year": 2024,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/type-shit/1737320962?i=1737320968"
+    },
+    {
+     "title": "GASS",
+     "artist": "Nemzzz feat. Travis Scott",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "All da Smoke",
+     "artist": "Future & Young Thug",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/all-da-smoke/1298532904?i=1298532909"
+    },
+    {
+     "title": "Super Gremlin",
+     "artist": "Kodak Black",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/super-gremlin/1613765327?i=1613765773"
+    },
+    {
+     "title": "Friend Do Remix",
+     "artist": "Belly Gang Kushington feat. YKNiece",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "Help Me",
+     "artist": "Real Boston Richey",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/help-me/1748852465?i=1748852471"
+    },
+    {
+     "title": "WHIM WHAMIEE",
+     "artist": "PLUTO & YKNIECE",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/whim-whamiee/1806231329?i=1806231330"
+    },
+    {
+     "title": "Brokey",
+     "artist": "Latto",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/brokey/1761699576?i=1761700189"
+    },
+    {
+     "title": "Hoochie Coochie",
+     "artist": "Sexyy Red",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "FLACKITO JODYE",
+     "artist": "A$AP Rocky feat. Tokischa",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "Dale",
+     "artist": "Bodega Flee feat. Chucky73 & DGLO73",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "PA QUE LO BAILES (BAILALO ROCKY)",
+     "artist": "Lomiiel",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/pa-que-lo-bailes-bailalo-rocky/1825899989?i=1825899995"
+    },
+    {
+     "title": "No Flockin’",
+     "artist": "Kodak Black",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/no-flockin/1056380393?i=1056380404"
+    },
+    {
+     "title": "Can’t Fuck wit Me",
+     "artist": "Trick Daddy",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "Bad and Boujee",
+     "artist": "Migos & Lil Uzi Vert",
+     "year": 2016,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/bad-and-boujee-feat-lil-uzi-vert/1615488284?i=1615488589"
+    },
+    {
+     "title": "She Make It Clap (Remix)",
+     "artist": "Soulja Boy & French Montana",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/she-make-it-clap-feat-french-montana-remix/1576222374?i=1576222582"
+    },
+    {
+     "title": "TF?",
+     "artist": "Don Toliver",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "2 Phones",
+     "artist": "Kevin Gates",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "CONTEST",
+     "artist": "Travis Scott & SoFaygo",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "Skrilla",
+     "artist": "Kodak Black",
+     "year": 2014,
+     "spotify": null
+    },
+    {
+     "title": "FE!N",
+     "artist": "Travis Scott & Playboi Carti",
+     "year": 2023,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/fe-n-feat-playboi-carti/1708274558?i=1708274783"
+    },
+    {
+     "title": "Faneto",
+     "artist": "Chief Keef",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "TGIF",
+     "artist": "GloRilla",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/tgif/1752804571?i=1752804574"
+    },
+    {
+     "title": "I'm A Monster",
+     "artist": "ATL Jacob",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "Hustlin'",
+     "artist": "Rick Ross",
+     "year": 2006,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/hustlin-remix-featuring-ja%C3%BF-z-young-jeezy/1440778709?i=1440778972"
+    },
+    {
+     "title": "Digits",
+     "artist": "Young Thug",
+     "year": 2016,
+     "spotify": null
+    },
+    {
+     "title": "Love Me",
+     "artist": "Lil Wayne, Drake & Future",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/love-me-feat-drake-future/1444110607?i=1444111502"
+    },
+    {
+     "title": "Dum, Dumb, and Dumber",
+     "artist": "Lil Baby, Young Thug & Future",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "NOKIA",
+     "artist": "Drake",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/nokia/6814097810?i=6814098030"
+    },
+    {
+     "title": "Up",
+     "artist": "Cardi B",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/up/1552255038?i=1552255040"
+    },
+    {
+     "title": "BAND4BAND",
+     "artist": "Central Cee & Lil Baby",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/band4band/1749412136?i=1749412138"
+    },
+    {
+     "title": "Dior",
+     "artist": "Pop Smoke",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/dior/1874288057?i=1874288472"
+    },
+    {
+     "title": "Roll in Peace",
+     "artist": "Kodak Black & XXXTENTACION",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/roll-in-peace-feat-xxxtentacion/1315198132?i=1315198135"
+    },
+    {
+     "title": "T-Shirt",
+     "artist": "Migos",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/t-shirt/1615488284?i=1615488576"
+    },
+    {
+     "title": "Big Mama (2nd Half Only)",
+     "artist": "Latto",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/big-mama-2nd-half-only/1755276550?i=1755276553"
+    },
+    {
+     "title": "DUMMY (Prod. Tay Keith)",
+     "artist": "Key Glock",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "SICKO MODE",
+     "artist": "Travis Scott",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/sicko-mode/1421658111?i=1421658123"
+    },
+    {
+     "title": "Mr. Pot Scraper",
+     "artist": "BossMan Dlow",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/mr-pot-scraper/1732766764?i=1732766765"
+    },
+    {
+     "title": "SkeeYee",
+     "artist": "Sexyy Red",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/skeeyee-radio-edit/1717627195?i=1717627210"
+    },
+    {
+     "title": "Just Wanna Rock",
+     "artist": "Lil Uzi Vert",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/just-wanna-rock/1650201273?i=1650201274"
+    },
+    {
+     "title": "OFF MY CHEST",
+     "artist": "Stevie J",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "Mo Bamba",
+     "artist": "Sheck Wes",
+     "year": 2018,
+     "spotify": null
+    },
+    {
+     "title": "Fried (She a Vibe)",
+     "artist": "Future & Metro Boomin",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/fried-she-a-vibe/1737320962?i=1737320985"
+    },
+    {
+     "title": "Dreams and Nightmares",
+     "artist": "Meek Mill",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/dreams-and-nightmares/564392443?i=564392608"
+    }
+   ]
+  },
+  {
+   "id": "vice-city-fm",
+   "name": "Vice City FM",
+   "frequency": "",
+   "genre": "80s · Synth-pop",
+   "hosts": [
+    "\"Weird Al\" Yankovic",
+    "Brigitte Nielsen"
+   ],
+   "description": "A 1980s pop station hosted by Weird Al Yankovic and Brigitte Nielsen.",
+   "note": "",
+   "accent": "#FFB35C",
+   "songs": [
+    {
+     "title": "Wishing (If I Had a Photograph Of You)",
+     "artist": "A Flock of Seagulls",
+     "year": 1982,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/wishing-if-i-had-a-photograph-of-you-extended-remix/1823100949?i=1823100950"
+    },
+    {
+     "title": "Vanity Kills",
+     "artist": "ABC",
+     "year": 1985,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/vanity-kills/1444029713?i=1444030046"
+    },
+    {
+     "title": "Fake",
+     "artist": "Alexander O'Neal",
+     "year": 1987,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/fake/1425171863?i=1425172545"
+    },
+    {
+     "title": "Imagination",
+     "artist": "Belouis Some",
+     "year": 1985,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/imagination/690816094?i=690816102"
+    },
+    {
+     "title": "E=Mc2",
+     "artist": "Big Audio Dynamite",
+     "year": 1985,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/e-mc2/194023958?i=194024078"
+    },
+    {
+     "title": "Flesh For Fantasy",
+     "artist": "Billy Idol",
+     "year": 1983,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/flesh-for-fantasy-st-francis-hotel-remix/1434764833?i=1434765386"
+    },
+    {
+     "title": "Loverboy",
+     "artist": "Billy Ocean",
+     "year": 1984,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/loverboy/459720412?i=459720621"
+    },
+    {
+     "title": "Don't Tell Me",
+     "artist": "Blancmange",
+     "year": 1984,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/dont-tell-me/1316164363?i=1316164384"
+    },
+    {
+     "title": "Kiss and Tell",
+     "artist": "Bryan Ferry",
+     "year": 1987,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/kiss-and-tell-2023-edit/1767813405?i=1767813806"
+    },
+    {
+     "title": "Searching",
+     "artist": "Change",
+     "year": 1980,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/searching-lp-version/76022266?i=76022040"
+    },
+    {
+     "title": "Working With Fire and Steel",
+     "artist": "China Crisis",
+     "year": 1983,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/working-with-fire-and-steel/355124572?i=355124585"
+    },
+    {
+     "title": "Miss Me Blind",
+     "artist": "Culture Club",
+     "year": 1983,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/miss-me-blind/724214023?i=724214062"
+    },
+    {
+     "title": "Name and Number",
+     "artist": "Curiosity Killed the Cat",
+     "year": 1989,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/name-and-number/1846353430?i=1846353606"
+    },
+    {
+     "title": "Crime Pays",
+     "artist": "Daryl Hall & John Oates",
+     "year": 1982,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/crime-pays-remastered/284761784?i=284762029"
+    },
+    {
+     "title": "People Are People",
+     "artist": "Depeche Mode",
+     "year": 1984,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/people-are-people/665413158?i=665414308"
+    },
+    {
+     "title": "State of Independence",
+     "artist": "Donna Summer",
+     "year": 1982,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/state-of-independence-2014-remaster/1587048749?i=1587049131"
+    },
+    {
+     "title": "She Works Hard For The Money",
+     "artist": "Donna Summer",
+     "year": 1983,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/she-works-hard-for-the-money-dj-john-michael-peloton-remix/1734277677?i=1734277682"
+    },
+    {
+     "title": "Lips Like Sugar",
+     "artist": "Echo & The Bunnymen",
+     "year": 1987,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/lips-like-sugar/31740074?i=31740091"
+    },
+    {
+     "title": "Kiss The Bride",
+     "artist": "Elton John",
+     "year": 1983,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/kiss-the-bride-remastered/1652668529?i=1652669456"
+    },
+    {
+     "title": "Sometimes",
+     "artist": "Erasure",
+     "year": 1986,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/sometimes/302137806?i=302137838"
+    },
+    {
+     "title": "A Good Heart",
+     "artist": "Feargal Sharkey",
+     "year": 1985,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/a-good-heart/724348924?i=724349119"
+    },
+    {
+     "title": "Good Thing",
+     "artist": "Fine Young Cannibals",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/good-thing/1313940401?i=1313940403"
+    },
+    {
+     "title": "Precious Little Diamond",
+     "artist": "Fox the Fox",
+     "year": 1983,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/precious-little-diamond/1789316536?i=1789316755"
+    },
+    {
+     "title": "Land of Confusion",
+     "artist": "Genesis",
+     "year": 1986,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/land-of-confusion/309747543?i=309747610"
+    },
+    {
+     "title": "Things Can Only Get Better",
+     "artist": "Howard Jones",
+     "year": 1985,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/things-can-only-get-better/1760579324?i=1760579480"
+    },
+    {
+     "title": "What's on Your Mind",
+     "artist": "Information Society",
+     "year": 1988,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/whats-on-your-mind-pure-energy/1604621827?i=1604621828"
+    },
+    {
+     "title": "Who Found Who",
+     "artist": "Jellybean feat. Elisa Fiorillo",
+     "year": 1987,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/who-found-who-feat-elisa-fiorillo/1450969537?i=1450969552"
+    },
+    {
+     "title": "We Don't Have To Take Our Clothes Off",
+     "artist": "Jermaine Stewart",
+     "year": 1986,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/we-dont-have-to-take-our-clothes-off/714697907?i=714697997"
+    },
+    {
+     "title": "Steppin' Out",
+     "artist": "Joe Jackson",
+     "year": 1982,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/steppin-out/1435502598?i=1435502785"
+    },
+    {
+     "title": "Shattered Dreams",
+     "artist": "Johnny Hates Jazz",
+     "year": 1987,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/shattered-dreams/714893506?i=714893510"
+    },
+    {
+     "title": "Another Life",
+     "artist": "Kano",
+     "year": 1983,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/another-life/680187848?i=680188027"
+    },
+    {
+     "title": "I'm Alright",
+     "artist": "Kenny Loggins",
+     "year": 1980,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/im-alright-theme-from-caddyshack/1058077856?i=1058078797"
+    },
+    {
+     "title": "White Horse",
+     "artist": "Laid Back",
+     "year": 1983,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/white-horse-funkstar-de-luxe-mix/217582917?i=217582951"
+    },
+    {
+     "title": "Bakerman",
+     "artist": "Laid Back",
+     "year": 1989,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/bakerman-soul-clap-remix/1469254913?i=1469255163"
+    },
+    {
+     "title": "Dancing On The Ceiling",
+     "artist": "Lionel Richie",
+     "year": 1986,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/dancing-on-the-ceiling/1442843539?i=1442843549"
+    },
+    {
+     "title": "All Night Long",
+     "artist": "Lionel Richie",
+     "year": 1983,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/all-night-long-all-night/1440808868?i=1440809027"
+    },
+    {
+     "title": "Blow The House Down",
+     "artist": "Living In A Box",
+     "year": 1989,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/blow-the-house-down/402799379?i=402799496"
+    },
+    {
+     "title": "Break My Stride",
+     "artist": "Matthew Wilder",
+     "year": 1983,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/break-my-stride/359713649?i=359713650"
+    },
+    {
+     "title": "Words",
+     "artist": "Missing Persons",
+     "year": 1982,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/words/716217726?i=716218169"
+    },
+    {
+     "title": "Dr. Beat",
+     "artist": "Miami Sound Machine",
+     "year": 1984,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/dr-beat-12-mix/190366619?i=190366976"
+    },
+    {
+     "title": "When The Lights Go Out",
+     "artist": "Naked Eyes",
+     "year": 1983,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/when-the-lights-go-out/1629182598?i=1629182601"
+    },
+    {
+     "title": "Thieves Like Us",
+     "artist": "New Order",
+     "year": 1984,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/thieves-like-us/439593473?i=439593499"
+    },
+    {
+     "title": "If You Leave",
+     "artist": "Orchestral Manoeuvres In The Dark",
+     "year": 1986,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/if-you-leave/726172489?i=726172620"
+    },
+    {
+     "title": "Cars and Girls",
+     "artist": "Prefab Sprout",
+     "year": 1988,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/cars-and-girls/1476849774?i=1476849939"
+    },
+    {
+     "title": "Duel (Bittersweet)",
+     "artist": "Propaganda",
+     "year": 1985,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/duel-bitter-sweet/1583223335?i=1583223729"
+    },
+    {
+     "title": "Heartbeat",
+     "artist": "Red 7",
+     "year": 1985,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/heartbeat-single-version/1444025066?i=1444025484"
+    },
+    {
+     "title": "I Didn't Mean To Turn You On",
+     "artist": "Robert Palmer",
+     "year": 1985,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/i-didnt-mean-to-turn-you-on/1646561534?i=1646562095"
+    },
+    {
+     "title": "Infatuation",
+     "artist": "Rod Stewart",
+     "year": 1984,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/infatuation/295535679?i=295535681"
+    },
+    {
+     "title": "Love Song",
+     "artist": "Simple Minds",
+     "year": 1981,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/love-song/724485552?i=724486078"
+    },
+    {
+     "title": "Alive and Kicking",
+     "artist": "Simple Minds",
+     "year": 1985,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/alive-and-kicking/1440841956?i=1440842097"
+    },
+    {
+     "title": "Money's Too Tight (To Mention)",
+     "artist": "Simply Red",
+     "year": 1985,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/moneys-too-tight-to-mention/274034202?i=274034220"
+    },
+    {
+     "title": "Winners",
+     "artist": "Stanley Clarke & George Duke",
+     "year": 1981,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/winners/200241312?i=200243460"
+    },
+    {
+     "title": "Wild Heart",
+     "artist": "Stevie Nicks",
+     "year": 1983,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/wild-heart-remastered/1163931485?i=1163931688"
+    },
+    {
+     "title": "Valerie",
+     "artist": "Steve Winwood",
+     "year": 1982,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/valerie/1440758877?i=1440759400"
+    },
+    {
+     "title": "If You Love Somebody Set Them Free",
+     "artist": "Sting",
+     "year": 1985,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/if-you-love-somebody-set-them-free/1650884598?i=1650884603"
+    },
+    {
+     "title": "Talk Talk",
+     "artist": "Talk Talk",
+     "year": 1982,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/talk-talk-1997-remaster/697202581?i=697203109"
+    },
+    {
+     "title": "Head Over Heels",
+     "artist": "Tears For Fears",
+     "year": 1985,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/head-over-heels/1440825207?i=1440825700"
+    },
+    {
+     "title": "You Might Think",
+     "artist": "The Cars",
+     "year": 1984,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/you-might-think/1088528654?i=1088528668"
+    },
+    {
+     "title": "Just Like Heaven",
+     "artist": "The Cure",
+     "year": 1987,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/just-like-heaven/31739756?i=31739774"
+    },
+    {
+     "title": "Passion",
+     "artist": "The Flirts",
+     "year": 1982,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/passion/925645044?i=925645048"
+    },
+    {
+     "title": "Suddenly Last Summer",
+     "artist": "The Motels",
+     "year": 1983,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/suddenly-last-summer/1496045374?i=1496045591"
+    },
+    {
+     "title": "Neutron Dance",
+     "artist": "The Pointer Sisters",
+     "year": 1983,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/neutron-dance/310511464?i=310511469"
+    },
+    {
+     "title": "Hot Together",
+     "artist": "The Pointer Sisters",
+     "year": 1986,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/hot-together/535572028?i=535572389"
+    },
+    {
+     "title": "Walking On The Moon",
+     "artist": "The Police",
+     "year": 1979,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/walking-on-the-moon-remastered-2003/1440744161?i=1440744171"
+    },
+    {
+     "title": "Lucretia My Reflection",
+     "artist": "The Sisters of Mercy",
+     "year": 1987,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/lucretia-my-reflection-2018-remastered-version/1384587799?i=1384587816"
+    },
+    {
+     "title": "Love On Your Side",
+     "artist": "The Thompson Twins",
+     "year": 1983,
+     "spotify": null
+    },
+    {
+     "title": "This Is The Day",
+     "artist": "The The",
+     "year": 1983,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/this-is-the-day/210039073?i=210039343"
+    },
+    {
+     "title": "Steamy Windows",
+     "artist": "Tina Turner",
+     "year": 1989,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/steamy-windows/732072155?i=732072878"
+    },
+    {
+     "title": "Everybody Have Fun Tonight",
+     "artist": "Wang Chung",
+     "year": 1986,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/everybody-have-fun-tonight/1444045737?i=1444045741"
+    },
+    {
+     "title": "Bridge To Your Heart",
+     "artist": "Wax",
+     "year": 1987,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/bridge-to-your-heart/1460281967?i=1460282334"
+    },
+    {
+     "title": "We Don't Need Another Hero (Thunderdome)",
+     "artist": "Tina Turner",
+     "year": 1985,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/we-dont-need-another-hero-thunderdome/993867428?i=993868659"
+    }
+   ]
+  },
+  {
+   "id": "wktt",
+   "name": "WKTT",
+   "frequency": "",
+   "genre": "Talk radio",
+   "hosts": [
+    "Stavros Halkias"
+   ],
+   "description": "",
+   "note": "",
+   "accent": "#5FD3F3",
+   "songs": []
+  },
+  {
+   "id": "worldwide-fm",
+   "name": "Worldwide FM",
+   "frequency": "",
+   "genre": "Jazz · World",
+   "hosts": [],
+   "description": "",
+   "note": "",
+   "accent": "#9D8CFF",
+   "songs": [
+    {
+     "title": "Star Chasers",
+     "artist": "4hero",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/star-chasers-masters-at-work-main-mix/1669441142?i=1669442422"
+    },
+    {
+     "title": "Skhaftin Saka Fonque",
+     "artist": "Atmos Blaq",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/skhaftin-saka-fonque/1762649724?i=1762649903"
+    },
+    {
+     "title": "Maktoub",
+     "artist": "Alewya",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/maktoub/1880699673?i=1880699684"
+    },
+    {
+     "title": "What You Won't Do For Love",
+     "artist": "Bobby Caldwell",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/what-you-wont-do-for-love/1606064414?i=1606064876"
+    },
+    {
+     "title": "Hold Tight",
+     "artist": "Change",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/hold-tight-lp-version/74222951?i=74222857"
+    },
+    {
+     "title": "International Man",
+     "artist": "Champion, Bakey, Jamakabi",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/international-man/1746982910?i=1746982929"
+    },
+    {
+     "title": "Glad To Know You",
+     "artist": "Chaz Jankel",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/glad-to-know-you-todd-terje-edit/304158803?i=304159216"
+    },
+    {
+     "title": "Atmosphere Strut",
+     "artist": "Cloud One",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/atmosphere-strut-part-1-2/1196014867?i=1196015034"
+    },
+    {
+     "title": "Moral Tem Hora",
+     "artist": "Cristina Camargo",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/moral-tem-hora/1062938538?i=1062939859"
+    },
+    {
+     "title": "Kamikazi",
+     "artist": "D'Angelo",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/kamikazi/6836458165?i=6836458171"
+    },
+    {
+     "title": "Rebirth of Slick (Cool Like Dat)",
+     "artist": "Digable Planets",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/rebirth-of-slick-cool-like-dat/725211790?i=725211798"
+    },
+    {
+     "title": "Yoppa Ratta",
+     "artist": "Dongurizu",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/yoppa-ratta/1801103230?i=1801103480"
+    },
+    {
+     "title": "Love From The Sun",
+     "artist": "Elements of Life feat. Rahsaan Patterson & Cindy Mizelle",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "Slope VIP",
+     "artist": "Facta feat. Warrior Queen and Killa P",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "Brasil de Capoeira",
+     "artist": "Feijão feat. Samtheman",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "Del Oro",
+     "artist": "Floating Points",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/del-oro/1746766012?i=1746766013"
+    },
+    {
+     "title": "If There Are Health Food Stores, Then What Is Everything Else",
+     "artist": "Food Courts",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "Don't Send Me Away",
+     "artist": "Garfield Fleming",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/dont-send-me-away/1623250794?i=1623250797"
+    },
+    {
+     "title": "Think Twice",
+     "artist": "Gilles Peterson's Havana Cultura Band feat. Danay & Carina",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "Japan Greatly",
+     "artist": "Izco feat. Reek0 & S.I.",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/japan-greatly-feat-reek0-and-s-i/1867282023?i=1867282199"
+    },
+    {
+     "title": "Don't You Know",
+     "artist": "Jan Hammer Group",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/dont-you-know/525872012?i=525872239"
+    },
+    {
+     "title": "Smile",
+     "artist": "Jamiroquai",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "Samurai",
+     "artist": "Jazztronik",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/samurai/300693284?i=300693304"
+    },
+    {
+     "title": "Stone Kold Krazy Luv",
+     "artist": "Jesse Johnson & DaM-FunK",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "Yu Done Know",
+     "artist": "Klash & Brown",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "Lion",
+     "artist": "Little Simz & Obongjayar",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "Que es lo que Hare para Amarte",
+     "artist": "Luis Antonio Diaz y Su Sol Banda",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "Militant Don",
+     "artist": "Mala & Maggu",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "Do It For You",
+     "artist": "Moses Ideka & Phil",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/do-it-for-you/1716548235?i=1716548658"
+    },
+    {
+     "title": "Thank You Deeply",
+     "artist": "Mystery Time",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/thank-you-deeply/1759199040?i=1759199242"
+    },
+    {
+     "title": "Fanga",
+     "artist": "Narasimha",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/fanga/1890219615?i=1890219616"
+    },
+    {
+     "title": "No Me Busques",
+     "artist": "Omar Apollo",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/no-me-busques/6812476961?i=6812477321"
+    },
+    {
+     "title": "Ain't It Time",
+     "artist": "Queen Yahna",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/aint-it-time/1196963942?i=1196964088"
+    },
+    {
+     "title": "The First Time Ever I Saw Your Face",
+     "artist": "Roberta Flack",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/the-first-time-ever-i-saw-your-face-single-edit-2020-remaster/1553542062?i=1553542156"
+    },
+    {
+     "title": "McDonalds Drug Money",
+     "artist": "Roy Ayers, Thundercat, Om'Mas Keith",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "Aaj Shanibar",
+     "artist": "Rupa",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/aaj-shanibar/1449797947?i=1449797965"
+    },
+    {
+     "title": "Si Phan Don Lovers Rock",
+     "artist": "Srirajah Sound System feat. Molam Inteng Keawbula",
+     "year": null,
+     "spotify": null
+    },
+    {
+     "title": "I'm A Sucker For Your Love",
+     "artist": "Teena Marie",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/im-a-sucker-for-your-love/1472016308?i=1472017059"
+    },
+    {
+     "title": "Free As The Wind",
+     "artist": "The Crusaders",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/free-as-the-wind/1443183570?i=1443183576"
+    },
+    {
+     "title": "My Love Your Love",
+     "artist": "Zena",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/my-love-your-love/1862818332?i=1862818335"
+    },
+    {
+     "title": "REBIRTH OF SLICK (COOL LIKE DAT)",
+     "artist": "Kassa Overall",
+     "year": null,
+     "spotify": null,
+     "apple": "https://music.apple.com/us/album/rebirth-of-slick-cool-like-dat/1817426158?i=1817426164"
+    }
+   ]
+  }
+ ]
+}
